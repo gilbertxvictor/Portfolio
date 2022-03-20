@@ -1,0 +1,52 @@
+The director of marketing believes the company’s future success depends on maximizing the number of annual memberships
+
+
+difference in casual and members to attain perfrences of casual riders 
+5,824 bicycles and 692 docking stations
+
+The majority of riders opt for traditional bikes; about
+8% of riders use the assistive options. Cyclistic users are more likely to ride for leisure, but about 30% use them to
+commute to work each day.
+
+pricing plans: single-ride passes, full-day passes(single-ride or full-day passes are referred to as casual riders), and annual memberships
+
+
+e questions will guide the future marketing program:
+1. How do annual members and casual riders use Cyclistic bikes differently?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How can Cyclistic use digital media to influence casual riders to become members?
+
+a = sin²(Δφ/2) + cos φ1 ⋅ cos φ2 ⋅ sin²(Δλ/2)
+c = 2 * atan2( √a, √(1−a) )
+d = R * c
+
+Where φ represent the latitudes, and λ represent the longitudes.
+
+
+PROCESS OUTTLINE
+COLLECT AND IMPORT
+-Collect all necessary data from repositary ⁪
+-Put all necessary data in a single folder ⁪
+-import the data using R/Python ⁪
+-remove recuring headers ⁪
+
+CLEAN PROCESS AND PREPARE[using R or python]
+-insert correct fomats, parse datetime etc  ⁪
+- delete null values 
+-create new columns(duration, duration desc[classify duration], start day, endday, distanmce[if necesary]) 
+- remember to remove negtion durations 
+-rename last column membership type   ⁪
+
+VISUALIZE DATA
+-frequency of use(count of membership_type)
+-frequncy of day of week irt mebership type
+-frequency of duration descrition irt membeship type
+-top 20 most use location by day of week, etc
+
+
+1) Find the time in minute sbetween start and end time in minutes using =(D2-C2)*1440 [convert the column to numbers forma]
+
+2)create a table that assigns classification based on the number of minutes
+ and use vlookup to classify 
+
+3)collct the day of the week of Start and End date
