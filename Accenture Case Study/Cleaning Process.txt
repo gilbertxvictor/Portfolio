@@ -1,0 +1,42 @@
+Datasets to consider 
+-contents
+-profile
+-reaction
+-reaction type
+
+CLEANING CONTENTS
+1
+checked content id for duplicates
+=no blanks 
+=No duplicates found
+2
+'type' column for data types and options
+=possess only d data types (photo, GIF, video and  aaudio) and there were no spelling errors 
+=no blanks 
+3
+check category column for entries and errors
+=in consitency found in naming convention were observed
+some categories had quotes and made it different from errors
+The following changes were made using 'Find and Replace'
+
+"animals" 1 ---> Animals
+"cooking" 1 ---> cooking
+"culture"  3 ---> culture
+"dogs"      2---> dogs
+"food"      1 --->  food
+"public speaking" 1 ---> public speaking
+"science" 1--->  science
+"soccer"  3 ---> soccer
+"studying" 1 ---> studying
+"technology" 1 ---> technology
+"tennis"   1 ---> tennis
+"veganism" 1 --->  veganism
+4
+Remove 'URL' Column'
+
+
+'Score' in ReactionTypes was used toc caculated the indiciual socre in Reaction and the and the total score by 'Content ID' was calculated using a pivot table wich will be merged using to Content using 'Content ID' as key
+as Left Joint
+
+
+
