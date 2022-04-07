@@ -1,0 +1,1421 @@
+,Name,Authentication,Category,link,Description
+0,AdoptAPet,apiKey,Animals,https://www.adoptapet.com/public/apis/pet_list.html,Resource to help get pets adopted
+1,Axolotl,,Animals,https://theaxolotlapi.netlify.app/,Collection of axolotl pictures and facts
+2,Cat Facts,,Animals,https://alexwohlbruck.github.io/cat-facts/,Daily cat facts
+3,Cataas,,Animals,https://cataas.com/,Cat as a service (cats pictures and gifs)
+4,Cats,apiKey,Animals,https://docs.thecatapi.com/,Pictures of cats from Tumblr
+5,Dog Facts,,Animals,https://dukengn.github.io/Dog-facts-API/,Random dog facts
+6,Dog Facts,,Animals,https://kinduff.github.io/dog-api/,Random facts of Dogs
+7,Dogs,,Animals,https://dog.ceo/dog-api/,Based on the Stanford Dogs Dataset
+8,eBird,apiKey,Animals,https://documenter.getpostman.com/view/664302/S1ENwy59,Retrieve recent or notable birding observations within a region
+9,FishWatch,,Animals,https://www.fishwatch.gov/developers,Information and pictures about individual fish species
+10,HTTP Cat,,Animals,https://http.cat/,Cat for every HTTP Status
+11,HTTP Dog,,Animals,https://http.dog/,Dogs for every HTTP response status code
+12,IUCN,apiKey,Animals,http://apiv3.iucnredlist.org/api/v3/docs,IUCN Red List of Threatened Species
+13,MeowFacts,,Animals,https://github.com/wh-iterabb-it/meowfacts,Get random cat facts
+14,Movebank,,Animals,https://github.com/movebank/movebank-api-doc,Movement and Migration data of animals
+15,Petfinder,apiKey,Animals,https://www.petfinder.com/developers/,"Petfinder is dedicated to helping pets find homes, another resource to get pets adopted"
+16,PlaceBear,,Animals,https://placebear.com/,Placeholder bear pictures
+17,PlaceDog,,Animals,https://place.dog,Placeholder Dog pictures
+18,PlaceKitten,,Animals,https://placekitten.com/,Placeholder Kitten pictures
+19,RandomDog,,Animals,https://random.dog/woof.json,Random pictures of dogs
+20,RandomDuck,,Animals,https://random-d.uk/api,Random pictures of ducks
+21,RandomFox,,Animals,https://randomfox.ca/floof/,Random pictures of foxes
+22,RescueGroups,,Animals,https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home,Adoption
+23,Shibe.Online,,Animals,http://shibe.online/,"Random pictures of Shiba Inu, cats or birds"
+24,The Dog,apiKey,Animals,https://thedogapi.com/,"A public service all about Dogs, free to use when making your fancy new App, Website or Service"
+25,xeno-canto,,Animals,https://xeno-canto.org/explore/api,Bird recordings
+26,Zoo Animals,,Animals,https://zoo-animal-api.herokuapp.com/,Facts and pictures of zoo animals
+27,AniAPI,OAuth,Anime,https://aniapi.com/docs/,"Anime discovery, streaming & syncing with trackers"
+28,AniDB,apiKey,Anime,https://wiki.anidb.net/HTTP_API_Definition,Anime Database
+29,AniList,OAuth,Anime,https://github.com/AniList/ApiV2-GraphQL-Docs,Anime discovery & tracking
+30,AnimeChan,,Anime,https://github.com/RocktimSaikia/anime-chan,Anime quotes (over 10k+)
+31,AnimeFacts,,Anime,https://chandan-02.github.io/anime-facts-rest-api/,Anime Facts (over 100+)
+32,AnimeNewsNetwork,,Anime,https://www.animenewsnetwork.com/encyclopedia/api.php,Anime industry news
+33,Catboy,,Anime,https://catboys.com/api,"Neko images, funny GIFs & more"
+34,Danbooru Anime,apiKey,Anime,https://danbooru.donmai.us/wiki_pages/help:api,Thousands of anime artist database to find good anime art
+35,Jikan,,Anime,https://jikan.moe,Unofficial MyAnimeList API
+36,Kitsu,OAuth,Anime,https://kitsu.docs.apiary.io/,Anime discovery platform
+37,MangaDex,apiKey,Anime,https://api.mangadex.org/docs.html,Manga Database and Community
+38,Mangapi,apiKey,Anime,https://rapidapi.com/pierre.carcellermeunier/api/mangapi3/,Translate manga pages from one language to another
+39,MyAnimeList,OAuth,Anime,https://myanimelist.net/clubs.php?cid=13727,Anime and Manga Database and Community
+40,NekosBest,,Anime,https://docs.nekos.best,Neko Images & Anime roleplaying GIFs
+41,Shikimori,OAuth,Anime,https://shikimori.one/api/doc,"Anime discovery, tracking, forum, rates"
+42,Studio Ghibli,,Anime,https://ghibliapi.herokuapp.com,Resources from Studio Ghibli films
+43,Trace Moe,,Anime,https://soruly.github.io/trace.moe-api/#/,A useful tool to get the exact scene of an anime from a screenshot
+44,Waifu.im,,Anime,https://waifu.im/docs,Get waifu pictures from an archive of over 4000 images and multiple tags
+45,Waifu.pics,,Anime,https://waifu.pics/docs,Image sharing platform for anime images
+46,AbuseIPDB,apiKey,Anti-Malware,https://docs.abuseipdb.com/,IP/domain/URL reputation
+47,AlienVault Open Threat Exchange (OTX),apiKey,Anti-Malware,https://otx.alienvault.com/api,IP/domain/URL reputation
+48,CAPEsandbox,apiKey,Anti-Malware,https://capev2.readthedocs.io/en/latest/usage/api.html,Malware execution and analysis
+49,Google Safe Browsing,apiKey,Anti-Malware,https://developers.google.com/safe-browsing/,Google Link/Domain Flagging
+50,MalDatabase,apiKey,Anti-Malware,https://maldatabase.com/api-doc.html,Provide malware datasets and threat intelligence feeds
+51,MalShare,apiKey,Anti-Malware,https://malshare.com/doc.php,Malware Archive / file sourcing
+52,MalwareBazaar,apiKey,Anti-Malware,https://bazaar.abuse.ch/api/,Collect and share malware samples
+53,Metacert,apiKey,Anti-Malware,https://metacert.com/,Metacert Link Flagging
+54,NoPhishy,apiKey,Anti-Malware,https://rapidapi.com/Amiichu/api/exerra-phishing-check/,Check links to see if they're known phishing attempts
+55,Phisherman,apiKey,Anti-Malware,https://phisherman.gg/,IP/domain/URL reputation
+56,Scanii,apiKey,Anti-Malware,https://docs.scanii.com/,Simple REST API that can scan submitted documents/files for the presence of threats
+57,URLhaus,,Anti-Malware,https://urlhaus-api.abuse.ch/,Bulk queries and Download Malware Samples
+58,URLScan.io,apiKey,Anti-Malware,https://urlscan.io/about-api/,Scan and Analyse URLs
+59,VirusTotal,apiKey,Anti-Malware,https://www.virustotal.com/en/documentation/public-api/,VirusTotal File/URL Analysis
+60,Web of Trust,apiKey,Anti-Malware,https://support.mywot.com/hc/en-us/sections/360004477734-API-,IP/domain/URL reputation
+61,Améthyste,apiKey,Art & Design,https://api.amethyste.moe/,Generate images for Discord users
+62,Art Institute of Chicago,,Art & Design,https://api.artic.edu/docs/,Art
+63,Colormind,,Art & Design,http://colormind.io/api-access/,Color scheme generator
+64,ColourLovers,,Art & Design,http://www.colourlovers.com/api,"Get various patterns, palettes and images"
+65,Cooper Hewitt,apiKey,Art & Design,https://collection.cooperhewitt.org/api,Smithsonian Design Museum
+66,Dribbble,OAuth,Art & Design,https://developer.dribbble.com,Discover the world’s top designers & creatives
+67,EmojiHub,,Art & Design,https://github.com/cheatsnake/emojihub,Get emojis by categories and groups
+68,Europeana,apiKey,Art & Design,https://pro.europeana.eu/resources/apis/search,European Museum and Galleries content
+69,Harvard Art Museums,apiKey,Art & Design,https://github.com/harvardartmuseums/api-docs,Art
+70,Icon Horse,,Art & Design,https://icon.horse,"Favicons for any website, with fallbacks"
+71,Iconfinder,apiKey,Art & Design,https://developer.iconfinder.com,Icons
+72,Icons8,,Art & Design,https://img.icons8.com/,"Icons (find ""search icon"" hyperlink in page)"
+73,Lordicon,,Art & Design,https://lordicon.com/,Icons with predone Animations
+74,Metropolitan Museum of Art,,Art & Design,https://metmuseum.github.io/,Met Museum of Art
+75,Noun Project,OAuth,Art & Design,http://api.thenounproject.com/index.html,Icons
+76,PHP-Noise,,Art & Design,https://php-noise.com/,Noise Background Image Generator
+77,Pixel Encounter,,Art & Design,https://pixelencounter.com/api,SVG Icon Generator
+78,Rijksmuseum,apiKey,Art & Design,https://data.rijksmuseum.nl/object-metadata/api/,RijksMuseum Data
+79,Word Cloud,apiKey,Art & Design,https://wordcloudapi.com/,Easily create word clouds
+80,xColors,,Art & Design,https://x-colors.herokuapp.com/,Generate & convert colors
+81,Auth0,apiKey,Authentication & Authorization,https://auth0.com,"Easy to implement, adaptable authentication and authorization platform"
+82,GetOTP,apiKey,Authentication & Authorization,https://otp.dev/en/docs/,Implement OTP flow quickly
+83,Micro User Service,apiKey,Authentication & Authorization,https://m3o.com/user,User management and authentication
+84,MojoAuth,apiKey,Authentication & Authorization,https://mojoauth.com,Secure and modern passwordless authentication platform
+85,SAWO Labs,apiKey,Authentication & Authorization,https://sawolabs.com,Simplify login and improve user experience by integrating passwordless authentication in your app
+86,Stytch,apiKey,Authentication & Authorization,https://stytch.com/,User infrastructure for modern applications
+87,Warrant,apiKey,Authentication & Authorization,https://warrant.dev/,APIs for authorization and access control
+88,Bitquery,apiKey,Blockchain,https://graphql.bitquery.io/ide,Onchain GraphQL APIs & DEX APIs
+89,Chainlink,,Blockchain,https://chain.link/developer-resources,Build hybrid smart contracts with Chainlink
+90,Chainpoint,,Blockchain,https://tierion.com/chainpoint/,Chainpoint is a global network for anchoring data to the Bitcoin blockchain
+91,Covalent,apiKey,Blockchain,https://www.covalenthq.com/docs/api/,Multi-blockchain data aggregator platform
+92,Etherscan,apiKey,Blockchain,https://etherscan.io/apis,Ethereum explorer API
+93,Helium,,Blockchain,https://docs.helium.com/api/blockchain/introduction/,"Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage"
+94,Nownodes,apiKey,Blockchain,https://nownodes.io/,Blockchain-as-a-service solution that provides high-quality connection via API
+95,Steem,,Blockchain,https://developers.steem.io/,Blockchain-based blogging and social media website
+96,The Graph,apiKey,Blockchain,https://thegraph.com,Indexing protocol for querying networks like Ethereum with GraphQL
+97,Walltime,,Blockchain,https://walltime.info/api.html,To retrieve Walltime's market info
+98,Watchdata,apiKey,Blockchain,https://docs.watchdata.io,Provide simple and reliable API access to Ethereum blockchain
+99,A Bíblia Digital,apiKey,Books,https://www.abibliadigital.com.br/en,Do not worry about managing the multiple versions of the Bible
+100,Bhagavad Gita,apiKey,Books,https://docs.bhagavadgitaapi.in,Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi
+101,Bhagavad Gita,OAuth,Books,https://bhagavadgita.io/api,Bhagavad Gita text
+102,Bhagavad Gita telugu,,Books,https://gita-api.vercel.app,Bhagavad Gita API in telugu and odia languages
+103,Bible-api,,Books,https://bible-api.com/,Free Bible API with multiple languages
+104,British National Bibliography,,Books,http://bnb.data.bl.uk/,Books
+105,Crossref Metadata Search,,Books,https://github.com/CrossRef/rest-api-doc,Books & Articles Metadata
+106,Ganjoor,OAuth,Books,https://api.ganjoor.net,"Classic Persian poetry works including access to related manuscripts, recitations and music tracks"
+107,Google Books,OAuth,Books,https://developers.google.com/books/,Books
+108,GurbaniNow,,Books,https://github.com/GurbaniNow/api,Fast and Accurate Gurbani RESTful API
+109,Gutendex,,Books,https://gutendex.com/,Web-API for fetching data from Project Gutenberg Books Library
+110,Open Library,,Books,https://openlibrary.org/developers/api,"Books, book covers and related data"
+111,Penguin Publishing,,Books,http://www.penguinrandomhouse.biz/webservices/rest/,"Books, book covers and related data"
+112,PoetryDB,,Books,https://github.com/thundercomb/poetrydb#readme,Enables you to get instant data from our vast poetry collection
+113,Quran,,Books,https://quran.api-docs.io/,RESTful Quran API with multiple languages
+114,Quran Cloud,,Books,https://alquran.cloud/api,"A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran"
+115,Quran-api,,Books,https://github.com/fawazahmed0/quran-api#readme,Free Quran API Service with 90+ different languages and 400+ translations
+116,Rig Veda,,Books,https://aninditabasu.github.io/indica/html/rv.html,"Gods and poets, their categories, and the verse meters, with the mandal and sukta number"
+117,The Bible,apiKey,Books,https://docs.api.bible,Everything you need from the Bible in one discoverable place
+118,Thirukkural,,Books,https://api-thirukkural.web.app/,1330 Thirukkural poems and explanation in Tamil and English
+119,Vedic Society,,Books,https://aninditabasu.github.io/indica/html/vs.html,"Descriptions of all nouns (names, places, animals, things) from vedic literature"
+120,Wizard World,,Books,https://wizard-world-api.herokuapp.com/swagger/index.html,Get information from the Harry Potter universe
+121,Wolne Lektury,,Books,https://wolnelektury.pl/api/,API for obtaining information about e-books available on the WolneLektury.pl website
+122,Apache Superset,apiKey,Business,https://superset.apache.org/docs/api,API to manage your BI dashboards and data sources on Superset
+123,Charity Search,apiKey,Business,http://charityapi.orghunter.com/,Non-profit charity data
+124,Clearbit Logo,apiKey,Business,https://clearbit.com/docs#logo-api,Search for company logos and embed them in your projects
+125,Domainsdb.info,,Business,https://domainsdb.info/,Registered Domain Names Search
+126,Freelancer,OAuth,Business,https://developers.freelancer.com,Hire freelancers to get work done
+127,Gmail,OAuth,Business,https://developers.google.com/gmail/api/,"Flexible, RESTful access to the user's inbox"
+128,Google Analytics,OAuth,Business,https://developers.google.com/analytics/,"Collect, configure and analyze your data to reach the right audience"
+129,Instatus,apiKey,Business,https://instatus.com/help/api,Post to and update maintenance and incidents on your status page through an HTTP REST API
+130,Mailchimp,apiKey,Business,https://mailchimp.com/developer/,Send marketing campaigns and transactional mails
+131,mailjet,apiKey,Business,https://www.mailjet.com/,Marketing email can be sent and mail templates made in MJML or HTML can be sent using API
+132,markerapi,,Business,https://markerapi.com,Trademark Search
+133,ORB Intelligence,apiKey,Business,https://api.orb-intelligence.com/docs/,Company lookup
+134,Redash,apiKey,Business,https://redash.io/help/user-guide/integrations-and-api/api,Access your queries and dashboards on Redash
+135,Smartsheet,OAuth,Business,https://smartsheet.redoc.ly/,Allows you to programmatically access and Smartsheet data and account information
+136,Square,OAuth,Business,https://developer.squareup.com/reference/square,"Easy way to take payments, manage refunds, and help customers checkout online"
+137,SwiftKanban,apiKey,Business,https://www.digite.com/knowledge-base/swiftkanban/article/api-for-swift-kanban-web-services/#restapi,"Kanban software, Visualize Work, Increase Organizations Lead Time, Throughput & Productivity"
+138,Tenders in Hungary,,Business,https://tenders.guru/hu/api,Get data for procurements in Hungary in JSON format
+139,Tenders in Poland,,Business,https://tenders.guru/pl/api,Get data for procurements in Poland in JSON format
+140,Tenders in Romania,,Business,https://tenders.guru/ro/api,Get data for procurements in Romania in JSON format
+141,Tenders in Spain,,Business,https://tenders.guru/es/api,Get data for procurements in Spain in JSON format
+142,Tenders in Ukraine,,Business,https://tenders.guru/ua/api,Get data for procurements in Ukraine in JSON format
+143,Tomba email finder,apiKey,Business,https://tomba.io/api,Email Finder for B2B sales and email marketing and email verifier
+144,Trello,OAuth,Business,https://developers.trello.com/,"Boards, lists and cards to help you organize and prioritize your projects"
+145,Abstract Public Holidays,apiKey,Calendar,https://www.abstractapi.com/holidays-api,"Data on national, regional, and religious holidays via API"
+146,Calendarific,apiKey,Calendar,https://calendarific.com/,Worldwide Holidays
+147,Church Calendar,,Calendar,http://calapi.inadiutorium.cz/,Catholic liturgical calendar
+148,Czech Namedays Calendar,,Calendar,https://svatky.adresa.info,Lookup for a name and returns nameday date
+149,Festivo Public Holidays,apiKey,Calendar,https://docs.getfestivo.com/docs/products/public-holidays-api/intro,Fastest and most advanced public holiday and observance service on the market
+150,Google Calendar,OAuth,Calendar,https://developers.google.com/google-apps/calendar/,"Display, create and modify Google calendar events"
+151,Hebrew Calendar,,Calendar,https://www.hebcal.com/home/developer-apis,"Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc"
+152,Holidays,apiKey,Calendar,https://holidayapi.com/,Historical data regarding holidays
+153,LectServe,,Calendar,http://www.lectserve.com,Protestant liturgical calendar
+154,Nager.Date,,Calendar,https://date.nager.at,Public holidays for more than 90 countries
+155,Namedays Calendar,,Calendar,https://nameday.abalin.net,Provides namedays for multiple countries
+156,Non-Working Days,,Calendar,https://github.com/gadael/icsdb,Database of ICS files for non working days
+157,Non-Working Days,,Calendar,https://isdayoff.ru,"Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other"
+158,Russian Calendar,,Calendar,https://github.com/egno/work-calendar,Check if a date is a Russian holiday or not
+159,UK Bank Holidays,,Calendar,https://www.gov.uk/bank-holidays.json,"Bank holidays in England and Wales, Scotland and Northern Ireland"
+160,AnonFiles,,Cloud Storage & File Sharing,https://anonfiles.com/docs/api,Upload and share your files anonymously
+161,BayFiles,,Cloud Storage & File Sharing,https://bayfiles.com/docs/api,Upload and share your files
+162,Box,OAuth,Cloud Storage & File Sharing,https://developer.box.com/,File Sharing and Storage
+163,ddownload,apiKey,Cloud Storage & File Sharing,https://ddownload.com/api,File Sharing and Storage
+164,Dropbox,OAuth,Cloud Storage & File Sharing,https://www.dropbox.com/developers,File Sharing and Storage
+165,File.io,,Cloud Storage & File Sharing,https://www.file.io,"Super simple file sharing, convenient, anonymous and secure"
+166,GoFile,apiKey,Cloud Storage & File Sharing,https://gofile.io/api,Unlimited size file uploads for free
+167,Google Drive,OAuth,Cloud Storage & File Sharing,https://developers.google.com/drive/,File Sharing and Storage
+168,Gyazo,apiKey,Cloud Storage & File Sharing,https://gyazo.com/api/docs,Save & Share screen captures instantly
+169,Imgbb,apiKey,Cloud Storage & File Sharing,https://api.imgbb.com/,Simple and quick private image sharing
+170,OneDrive,OAuth,Cloud Storage & File Sharing,https://developer.microsoft.com/onedrive,File Sharing and Storage
+171,Pantry,,Cloud Storage & File Sharing,https://getpantry.cloud/,Free JSON storage for small projects
+172,Pastebin,apiKey,Cloud Storage & File Sharing,https://pastebin.com/doc_api,Plain Text Storage
+173,Pinata,apiKey,Cloud Storage & File Sharing,https://docs.pinata.cloud/,IPFS Pinning Services API
+174,Quip,apiKey,Cloud Storage & File Sharing,https://quip.com/dev/automation/documentation,File Sharing and Storage for groups
+175,Storj,apiKey,Cloud Storage & File Sharing,https://docs.storj.io/dcs/,Decentralized Open-Source Cloud Storage
+176,The Null Pointer,,Cloud Storage & File Sharing,https://0x0.st,No-bullshit file hosting and URL shortening service
+177,Web3 Storage,apiKey,Cloud Storage & File Sharing,https://web3.storage/,File Sharing and Storage for Free with 1TB Space
+178,Azure DevOps Health,apiKey,Continuous Integration,https://docs.microsoft.com/en-us/rest/api/resourcehealth,Resource health helps you diagnose and get support when an Azure issue impacts your resources
+179,Bitrise,apiKey,Continuous Integration,https://api-docs.bitrise.io/,Build tool and processes integrations to create efficient development pipelines
+180,Buddy,OAuth,Continuous Integration,https://buddy.works/docs/api/getting-started/overview,The fastest continuous integration and continuous delivery platform
+181,CircleCI,apiKey,Continuous Integration,https://circleci.com/docs/api/v1-reference/,Automate the software development process using continuous integration and continuous delivery
+182,Codeship,apiKey,Continuous Integration,https://docs.cloudbees.com/docs/cloudbees-codeship/latest/api-overview/,Codeship is a Continuous Integration Platform in the cloud
+183,Travis CI,apiKey,Continuous Integration,https://docs.travis-ci.com/api/,Sync your GitHub projects with Travis CI to test your code in minutes
+184,0x,,Cryptocurrency,https://0x.org/api,API for querying token and pool stats across various liquidity pools
+185,1inch,,Cryptocurrency,https://1inch.io/api/,API for querying decentralize exchange
+186,Alchemy Ethereum,apiKey,Cryptocurrency,https://docs.alchemy.com/alchemy/,Ethereum Node-as-a-Service Provider
+187,apilayer coinlayer,apiKey,Cryptocurrency,https://coinlayer.com,Real-time Crypto Currency Exchange Rates
+188,Binance,apiKey,Cryptocurrency,https://github.com/binance/binance-spot-api-docs,Exchange for Trading Cryptocurrencies based in China
+189,Bitcambio,,Cryptocurrency,https://nova.bitcambio.com.br/api/v3/docs#a-public,Get the list of all traded assets in the exchange
+190,BitcoinAverage,apiKey,Cryptocurrency,https://apiv2.bitcoinaverage.com/,Digital Asset Price Data for the blockchain industry
+191,BitcoinCharts,,Cryptocurrency,https://bitcoincharts.com/about/exchanges/,Financial and Technical Data related to the Bitcoin Network
+192,Bitfinex,apiKey,Cryptocurrency,https://docs.bitfinex.com/docs,Cryptocurrency Trading Platform
+193,Bitmex,apiKey,Cryptocurrency,https://www.bitmex.com/app/apiOverview,Real-Time Cryptocurrency derivatives trading platform based in Hong Kong
+194,Bittrex,apiKey,Cryptocurrency,https://bittrex.github.io/api/v3,Next Generation Crypto Trading Platform
+195,Block,apiKey,Cryptocurrency,https://block.io/docs/basic,"Bitcoin Payment, Wallet & Transaction Data"
+196,Blockchain,apiKey,Cryptocurrency,https://www.blockchain.com/api,"Bitcoin Payment, Wallet & Transaction Data"
+197,blockfrost Cardano,apiKey,Cryptocurrency,https://blockfrost.io/,Interaction with the Cardano mainnet and several testnets
+198,Brave NewCoin,apiKey,Cryptocurrency,https://bravenewcoin.com/developers,Real-time and historic crypto data from more than 200+ exchanges
+199,BtcTurk,apiKey,Cryptocurrency,https://docs.btcturk.com/,"Real-time cryptocurrency data, graphs and API that allows buy&sell"
+200,Bybit,apiKey,Cryptocurrency,https://bybit-exchange.github.io/docs/linear/#t-introduction,Cryptocurrency data feed and algorithmic trading
+201,CoinAPI,apiKey,Cryptocurrency,https://docs.coinapi.io/,All Currency Exchanges integrate under a single api
+202,Coinbase,apiKey,Cryptocurrency,https://developers.coinbase.com,"Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices"
+203,Coinbase Pro,apiKey,Cryptocurrency,https://docs.pro.coinbase.com/#api,Cryptocurrency Trading Platform
+204,CoinCap,,Cryptocurrency,https://docs.coincap.io/,Real time Cryptocurrency prices through a RESTful API
+205,CoinDCX,apiKey,Cryptocurrency,https://docs.coindcx.com/,Cryptocurrency Trading Platform
+206,CoinDesk,,Cryptocurrency,https://old.coindesk.com/coindesk-api/,CoinDesk's Bitcoin Price Index (BPI) in multiple currencies
+207,CoinGecko,,Cryptocurrency,http://www.coingecko.com/api,"Cryptocurrency Price, Market, and Developer/Social Data"
+208,Coinigy,apiKey,Cryptocurrency,https://coinigy.docs.apiary.io,Interacting with Coinigy Accounts and Exchange Directly
+209,Coinlib,apiKey,Cryptocurrency,https://coinlib.io/apidocs,Crypto Currency Prices
+210,Coinlore,,Cryptocurrency,https://www.coinlore.com/cryptocurrency-data-api,"Cryptocurrencies prices, volume and more"
+211,CoinMarketCap,apiKey,Cryptocurrency,https://coinmarketcap.com/api/,Cryptocurrencies Prices
+212,Coinpaprika,,Cryptocurrency,https://api.coinpaprika.com,"Cryptocurrencies prices, volume and more"
+213,CoinRanking,apiKey,Cryptocurrency,https://developers.coinranking.com/api/documentation,Live Cryptocurrency data
+214,Coinremitter,apiKey,Cryptocurrency,https://coinremitter.com/docs,Cryptocurrencies Payment & Prices
+215,CoinStats,,Cryptocurrency,https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest,Crypto Tracker
+216,CryptAPI,,Cryptocurrency,https://docs.cryptapi.io/,Cryptocurrency Payment Processor
+217,CryptingUp,,Cryptocurrency,https://www.cryptingup.com/apidoc/#introduction,Cryptocurrency data
+218,CryptoCompare,,Cryptocurrency,https://www.cryptocompare.com/api#,Cryptocurrencies Comparison
+219,CryptoMarket,apiKey,Cryptocurrency,https://api.exchange.cryptomkt.com/,Cryptocurrencies Trading platform
+220,Cryptonator,,Cryptocurrency,https://www.cryptonator.com/api/,Cryptocurrencies Exchange Rates
+221,dYdX,apiKey,Cryptocurrency,https://docs.dydx.exchange/,Decentralized cryptocurrency exchange
+222,Ethplorer,apiKey,Cryptocurrency,https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API,"Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures"
+223,EXMO,apiKey,Cryptocurrency,https://documenter.getpostman.com/view/10287440/SzYXWKPi,Cryptocurrencies exchange based in UK
+224,FTX,apiKey,Cryptocurrency,https://docs.ftx.com/,"Complete REST, websocket, and FTX APIs to suit your algorithmic trading needs"
+225,Gateio,apiKey,Cryptocurrency,https://www.gate.io/api2,"API provides spot, margin and futures trading operations"
+226,Gemini,,Cryptocurrency,https://docs.gemini.com/rest-api/,Cryptocurrencies Exchange
+227,Hirak Exchange Rates,apiKey,Cryptocurrency,https://rates.hirak.site/,"Exchange rates between 162 currency & 300 crypto currency update each 5 min, accurate, no limits"
+228,Huobi,apiKey,Cryptocurrency,https://huobiapi.github.io/docs/spot/v1/en/,Seychelles based cryptocurrency exchange
+229,icy.tools,apiKey,Cryptocurrency,https://developers.icy.tools/,GraphQL based NFT API
+230,Indodax,apiKey,Cryptocurrency,https://github.com/btcid/indodax-official-api-docs,Trade your Bitcoin and other assets with rupiah
+231,INFURA Ethereum,apiKey,Cryptocurrency,https://infura.io/product/ethereum,Interaction with the Ethereum mainnet and several testnets
+232,Kraken,apiKey,Cryptocurrency,https://docs.kraken.com/rest/,Cryptocurrencies Exchange
+233,KuCoin,apiKey,Cryptocurrency,https://docs.kucoin.com/,Cryptocurrency Trading Platform
+234,Localbitcoins,,Cryptocurrency,https://localbitcoins.com/api-docs/,P2P platform to buy and sell Bitcoins
+235,Mempool,,Cryptocurrency,https://mempool.space/api,Bitcoin API Service focusing on the transaction fee
+236,MercadoBitcoin,,Cryptocurrency,https://www.mercadobitcoin.com.br/api-doc/,Brazilian Cryptocurrency Information
+237,Messari,,Cryptocurrency,https://messari.io/api,Provides API endpoints for thousands of crypto assets
+238,Nexchange,,Cryptocurrency,https://nexchange2.docs.apiary.io/,Automated cryptocurrency exchange service
+239,Nomics,apiKey,Cryptocurrency,https://nomics.com/docs/,Historical and realtime cryptocurrency prices and market data
+240,NovaDax,apiKey,Cryptocurrency,https://doc.novadax.com/en-US/#introduction,"NovaDAX API to access all market data, trading management endpoints"
+241,OKEx,apiKey,Cryptocurrency,https://www.okex.com/docs/,Cryptocurrency exchange based in Seychelles
+242,Poloniex,apiKey,Cryptocurrency,https://docs.poloniex.com,US based digital asset exchange
+243,Solana JSON RPC,,Cryptocurrency,https://docs.solana.com/developing/clients/jsonrpc-api,Provides various endpoints to interact with the Solana Blockchain
+244,Technical Analysis,apiKey,Cryptocurrency,https://technical-analysis-api.com,Cryptocurrency prices and technical analysis
+245,VALR,apiKey,Cryptocurrency,https://docs.valr.com/,Cryptocurrency Exchange based in South Africa
+246,WorldCoinIndex,apiKey,Cryptocurrency,https://www.worldcoinindex.com/apiservice,Cryptocurrencies Prices
+247,ZMOK,,Cryptocurrency,https://zmok.io,Ethereum JSON RPC API and Web3 provider
+248,1Forge,apiKey,Currency Exchange,https://1forge.com/forex-data-api/api-documentation,Forex currency market data
+249,Amdoren,apiKey,Currency Exchange,https://www.amdoren.com/currency-api/,Free currency API with over 150 currencies
+250,apilayer fixer.io,apiKey,Currency Exchange,https://fixer.io,Exchange rates and currency conversion
+251,Bank of Russia,,Currency Exchange,https://www.cbr.ru/development/SXML/,Exchange rates and currency conversion
+252,Currency-api,,Currency Exchange,https://github.com/fawazahmed0/currency-api#readme,Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits
+253,CurrencyFreaks,apiKey,Currency Exchange,https://currencyfreaks.com/,Provides current and historical currency exchange rates with free plan 1K requests/month
+254,Currencylayer,apiKey,Currency Exchange,https://currencylayer.com/documentation,Exchange rates and currency conversion
+255,CurrencyScoop,apiKey,Currency Exchange,https://currencyscoop.com/api-documentation,Real-time and historical currency rates JSON API
+256,Czech National Bank,,Currency Exchange,https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml,A collection of exchange rates
+257,Economia.Awesome,,Currency Exchange,https://docs.awesomeapi.com.br/api-de-moedas,Portuguese free currency prices and conversion with no rate limits
+258,ExchangeRate-API,apiKey,Currency Exchange,https://www.exchangerate-api.com,Free currency conversion
+259,Exchangerate.host,,Currency Exchange,https://exchangerate.host,Free foreign exchange & crypto rates API
+260,Exchangeratesapi.io,apiKey,Currency Exchange,https://exchangeratesapi.io,Exchange rates with currency conversion
+261,Frankfurter,,Currency Exchange,https://www.frankfurter.app/docs,"Exchange rates, currency conversion and time series"
+262,FreeForexAPI,,Currency Exchange,https://freeforexapi.com/Home/Api,Real-time foreign exchange rates for major currency pairs
+263,National Bank of Poland,,Currency Exchange,http://api.nbp.pl/en.html,A collection of currency exchange rates (data in XML and JSON)
+264,VATComply.com,,Currency Exchange,https://www.vatcomply.com/documentation,"Exchange rates, geolocation and VAT number validation"
+265,Lob.com,apiKey,Data Validation,https://lob.com/,US Address Verification
+266,Postman Echo,,Data Validation,https://www.postman-echo.com,Test api server to receive and return value from HTTP method
+267,PurgoMalum,,Data Validation,http://www.purgomalum.com,Content validator against profanity & obscenity
+268,US Autocomplete,apiKey,Data Validation,https://www.smarty.com/docs/cloud/us-autocomplete-pro-api,Enter address data quickly with real-time address suggestions
+269,US Extract,apiKey,Data Validation,https://www.smarty.com/products/apis/us-extract-api,Extract postal addresses from any text including emails
+270,US Street Address,apiKey,Data Validation,https://www.smarty.com/docs/cloud/us-street-api,Validate and append data for any US postal address
+271,vatlayer,apiKey,Data Validation,https://vatlayer.com/documentation,VAT number validation
+272,24 Pull Requests,,Development,https://24pullrequests.com/api,Project to promote open source collaboration during December
+273,Abstract Screenshot,apiKey,Development,https://www.abstractapi.com/website-screenshot-api,Take programmatic screenshots of web pages from any website
+274,Agify.io,,Development,https://agify.io,Estimates the age from a first name
+275,API Grátis,,Development,https://apigratis.com.br/,Multiples services and public APIs
+276,ApicAgent,,Development,https://www.apicagent.com,Extract device details from user-agent string
+277,ApiFlash,apiKey,Development,https://apiflash.com/,Chrome based screenshot API for developers
+278,apilayer userstack,OAuth,Development,https://userstack.com/,Secure User-Agent String Lookup JSON API
+279,APIs.guru,,Development,https://apis.guru/api-doc/,"Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs"
+280,Azure DevOps,apiKey,Development,https://docs.microsoft.com/en-us/rest/api/azure/devops,The Azure DevOps basic components of a REST API request/response pair
+281,Base,apiKey,Development,https://www.base-api.io/,Building quick backends
+282,Beeceptor,,Development,https://beeceptor.com/,Build a mock Rest API endpoint in seconds
+283,Bitbucket,OAuth,Development,https://developer.atlassian.com/bitbucket/api/2/reference/,Bitbucket API
+284,Blague.xyz,apiKey,Development,https://blague.xyz/,La plus grande API de Blagues FR/The biggest FR jokes API
+285,Blitapp,apiKey,Development,https://blitapp.com/api/,Schedule screenshots of web pages and sync them to your cloud
+286,Blynk-Cloud,apiKey,Development,https://blynkapi.docs.apiary.io/#,Control IoT Devices from Blynk IoT Cloud
+287,Bored,,Development,https://www.boredapi.com/,Find random activities to fight boredom
+288,Brainshop.ai,apiKey,Development,https://brainshop.ai/,Make A Free A.I Brain
+289,Browshot,apiKey,Development,https://browshot.com/api/documentation,"Easily make screenshots of web pages in any screen size, as any device"
+290,CDNJS,,Development,https://api.cdnjs.com/libraries/jquery,Library info on CDNJS
+291,Changelogs.md,,Development,https://changelogs.md,Structured changelog metadata from open source projects
+292,Ciprand,,Development,https://github.com/polarspetroll/ciprand,Secure random string generator
+293,Cloudflare Trace,,Development,https://github.com/fawazahmed0/cloudflare-trace-api,"Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More"
+294,Codex,,Development,https://github.com/Jaagrav/CodeX,Online Compiler for Various Languages
+295,Contentful Images,apiKey,Development,https://www.contentful.com/developers/docs/references/images-api/,Used to retrieve and apply transformations to images
+296,CORS Proxy,,Development,https://github.com/burhanuday/cors-proxy,Get around the dreaded CORS error by using this proxy as a middle man
+297,CountAPI,,Development,https://countapi.xyz,Free and simple counting service. You can use it to track page hits and specific events
+298,Databricks,apiKey,Development,https://docs.databricks.com/dev-tools/api/latest/index.html,"Service to manage your databricks account,clusters, notebooks, jobs and workspaces"
+299,DigitalOcean Status,,Development,https://status.digitalocean.com/api,Status of all DigitalOcean services
+300,Docker Hub,apiKey,Development,https://docs.docker.com/docker-hub/api/latest/,Interact with Docker Hub
+301,DomainDb Info,,Development,https://api.domainsdb.info/,Domain name search to find all domains containing particular words/phrases/etc
+302,ExtendsClass JSON Storage,,Development,https://extendsclass.com/json-storage.html,A simple JSON store API
+303,GeekFlare,apiKey,Development,https://apidocs.geekflare.com/docs/geekflare-api,Provide numerous capabilities for important testing and monitoring methods for websites
+304,Genderize.io,,Development,https://genderize.io,Estimates a gender from a first name
+305,GETPing,apiKey,Development,https://www.getping.info,Trigger an email notification with a simple GET request
+306,Ghost,apiKey,Development,https://ghost.org/,"Get Published content into your Website, App or other embedded media"
+307,GitHub,OAuth,Development,https://docs.github.com/en/free-pro-team@latest/rest,"Make use of GitHub repositories, code and user info programmatically"
+308,Gitlab,OAuth,Development,https://docs.gitlab.com/ee/api/,Automate GitLab interaction programmatically
+309,Gitter,OAuth,Development,https://developer.gitter.im/docs/welcome,Chat for Developers
+310,Glitterly,apiKey,Development,https://developers.glitterly.app,Image generation API
+311,Google Docs,OAuth,Development,https://developers.google.com/docs/api/reference/rest,"API to read, write, and format Google Docs documents"
+312,Google Firebase,apiKey,Development,https://firebase.google.com/docs,"Google's mobile application development platform that helps build, improve, and grow app"
+313,Google Fonts,apiKey,Development,https://developers.google.com/fonts/docs/developer_api,Metadata for all families served by Google Fonts
+314,Google Keep,OAuth,Development,https://developers.google.com/keep/api/reference/rest,"API to read, write, and format Google Keep notes"
+315,Google Sheets,OAuth,Development,https://developers.google.com/sheets/api/reference/rest,"API to read, write, and format Google Sheets data"
+316,Google Slides,OAuth,Development,https://developers.google.com/slides/api/reference/rest,"API to read, write, and format Google Slides presentations"
+317,Gorest,OAuth,Development,https://gorest.co.in/,Online REST API for Testing and Prototyping
+318,Hasura,apiKey,Development,https://hasura.io/opensource/,GraphQL and REST API Engine with built in Authorization
+319,Heroku,OAuth,Development,https://devcenter.heroku.com/articles/platform-api-reference/,"REST API to programmatically create apps, provision add-ons and perform other task on Heroku"
+320,host-t.com,,Development,https://host-t.com,Basic DNS query via HTTP GET request
+321,Host.io,apiKey,Development,https://host.io,Domains Data API for Developers
+322,HTTP2.Pro,,Development,https://http2.pro/doc/api,Test endpoints for client and server HTTP/2 protocol support
+323,Httpbin,,Development,https://httpbin.org/,A Simple HTTP Request & Response Service
+324,Httpbin Cloudflare,,Development,https://cloudflare-quic.com/b/,A Simple HTTP Request & Response Service with HTTP/3 Support by Cloudflare
+325,Hunter,apiKey,Development,https://hunter.io/api,"API for domain search, professional email finder, author finder and email verifier"
+326,IBM Text to Speech,apiKey,Development,https://cloud.ibm.com/docs/text-to-speech/getting-started.html,Convert text to speech
+327,Icanhazepoch,,Development,https://icanhazepoch.com,Get Epoch time
+328,Icanhazip,,Development,https://major.io/icanhazip-com-faq/,IP Address API
+329,IFTTT,,Development,https://platform.ifttt.com/docs/connect_api,IFTTT Connect API
+330,Image-Charts,,Development,https://documentation.image-charts.com/,"Generate charts, QR codes and graph images"
+331,import.io,apiKey,Development,http://api.docs.import.io/,Retrieve structured data from a website or RSS feed
+332,ip-fast.com,,Development,https://ip-fast.com/docs/,"IP address, country and city"
+333,IP2WHOIS Information Lookup,apiKey,Development,https://www.ip2whois.com/,WHOIS domain name lookup
+334,ipfind.io,apiKey,Development,https://ipfind.io,Geographic location of an IP address or any domain name along with some other useful information
+335,IPify,,Development,https://www.ipify.org/,A simple IP Address API
+336,IPinfo,,Development,https://ipinfo.io/developers,Another simple IP Address API
+337,jsDelivr,,Development,https://github.com/jsdelivr/data.jsdelivr.com,Package info and download stats on jsDelivr CDN
+338,JSON 2 JSONP,,Development,https://json2jsonp.com/,Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript
+339,JSONbin.io,apiKey,Development,https://jsonbin.io,"Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps"
+340,Kroki,,Development,https://kroki.io,Creates diagrams from textual descriptions
+341,License-API,,Development,https://github.com/cmccandless/license-api/blob/master/README.md,Unofficial REST API for choosealicense.com
+342,Logs.to,apiKey,Development,https://logs.to/,Generate logs
+343,Lua Decompiler,,Development,https://lua-decompiler.ferib.dev/,Online Lua 5.1 Decompiler
+344,MAC address vendor lookup,apiKey,Development,https://macaddress.io/api,Retrieve vendor details and other information regarding a given MAC address or an OUI
+345,Micro DB,apiKey,Development,https://m3o.com/db,Simple database service
+346,MicroENV,,Development,https://microenv.com/,Fake Rest API for developers
+347,Mocky,,Development,https://designer.mocky.io/,Mock user defined test JSON for REST API endpoints
+348,MY IP,,Development,https://www.myip.com/api-docs/,Get IP address information
+349,Nationalize.io,,Development,https://nationalize.io,Estimate the nationality of a first name
+350,Netlify,OAuth,Development,https://docs.netlify.com/api/get-started/,Netlify is a hosting service for the programmable web
+351,NetworkCalc,,Development,https://networkcalc.com/api/docs,"Network calculators, including subnets, DNS, binary, and security tools"
+352,npm Registry,,Development,https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md,Query information about your favorite Node.js libraries programatically
+353,OneSignal,apiKey,Development,https://documentation.onesignal.com/docs/onesignal-api,"Self-serve customer engagement solution for Push Notifications, Email, SMS & In-App"
+354,Open Page Rank,apiKey,Development,https://www.domcop.com/openpagerank/,API for calculating and comparing metrics of different websites using Page Rank algorithm
+355,OpenAPIHub,X-Mashape-Key,Development,https://hub.openapihub.com/,The All-in-one API Platform
+356,OpenGraphr,apiKey,Development,https://opengraphr.com/docs/1.0/overview,Really simple API to retrieve Open Graph data from an URL
+357,oyyi,,Development,https://oyyi.xyz/docs/1.0,"API for Fake Data, image/video conversion, optimization, pdf optimization and thumbnail generation"
+358,PageCDN,apiKey,Development,https://pagecdn.com/docs/public-api,"Public API for javascript, css and font libraries on PageCDN"
+359,Postman,apiKey,Development,https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a,Tool for testing APIs
+360,ProxyCrawl,apiKey,Development,https://proxycrawl.com,Scraping and crawling anticaptcha service
+361,ProxyKingdom,apiKey,Development,https://proxykingdom.com,Rotating Proxy API that produces a working proxy on every request
+362,Pusher Beams,apiKey,Development,https://pusher.com/beams,Push notifications for Android & iOS
+363,QR code,,Development,https://www.qrtag.net/api/,Create an easy to read QR code and URL shortener
+364,QR code,,Development,http://goqr.me/api/,Generate and decode / read QR code graphics
+365,Qrcode Monkey,,Development,https://www.qrcode-monkey.com/qr-code-api-with-logo/,Integrate custom and unique looking QR codes into your system or workflow
+366,QuickChart,,Development,https://quickchart.io/,Generate chart and graph images
+367,Random Stuff,apiKey,Development,https://api-docs.pgamerx.com/,"Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed"
+368,Rejax,apiKey,Development,https://rejax.io/,Reverse AJAX service to notify clients
+369,ReqRes,,Development,https://reqres.in/ ,A hosted REST-API ready to respond to your AJAX requests
+370,RSS feed to JSON,,Development,https://rss-to-json-serverless-api.vercel.app,Returns RSS feed in JSON format using feed URL
+371,SavePage.io,apiKey,Development,https://www.savepage.io,"A free, RESTful API used to screenshot any desktop, or mobile website"
+372,ScrapeNinja,apiKey,Development,https://scrapeninja.net,Scraping API with Chrome fingerprint and residential proxies
+373,ScraperApi,apiKey,Development,https://www.scraperapi.com,Easily build scalable web scrapers
+374,scraperBox,apiKey,Development,https://scraperbox.com/,Undetectable web scraping API
+375,scrapestack,apiKey,Development,https://scrapestack.com/,"Real-time, Scalable Proxy & Web Scraping REST API"
+376,ScrapingAnt,apiKey,Development,https://scrapingant.com,Headless Chrome scraping with a simple API
+377,ScrapingDog,apiKey,Development,https://www.scrapingdog.com/,Proxy API for Web scraping
+378,ScreenshotAPI.net,apiKey,Development,https://screenshotapi.net/,Create pixel-perfect website screenshots
+379,Serialif Color,,Development,https://color.serialif.com/,"Color conversion, complementary, grayscale and contrasted text"
+380,serpstack,apiKey,Development,https://serpstack.com/,Real-Time & Accurate Google Search Results API
+381,Sheetsu,apiKey,Development,https://sheetsu.com/,Easy google sheets integration
+382,SHOUTCLOUD,,Development,http://shoutcloud.io/,ALL-CAPS AS A SERVICE
+383,Sonar,,Development,https://github.com/Cgboal/SonarSearch,Project Sonar DNS Enumeration API
+384,SonarQube,OAuth,Development,https://sonarcloud.io/web_api,"SonarQube REST APIs to detect bugs, code smells & security vulnerabilities"
+385,StackExchange,OAuth,Development,https://api.stackexchange.com/,Q&A forum for developers
+386,Statically,,Development,https://statically.io/,A free CDN for developers
+387,Supportivekoala,apiKey,Development,https://developers.supportivekoala.com/,Autogenerate images with template
+388,Tyk,apiKey,Development,https://tyk.io/open-source/,Api and service management platform
+389,Wandbox,,Development,https://github.com/melpon/wandbox/blob/master/kennel2/API.rst,Code compiler supporting 35+ languages mentioned at wandbox.org
+390,WebScraping.AI,apiKey,Development,https://webscraping.ai/,Web Scraping API with built-in proxies and JS rendering
+391,ZenRows,apiKey,Development,https://www.zenrows.com/,"Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies"
+392,Chinese Character Web,,Dictionaries,http://ccdb.hemiola.com/,Chinese character definitions and pronunciations
+393,Chinese Text Project,,Dictionaries,https://ctext.org/tools/api,Online open-access digital library for pre-modern Chinese texts
+394,Collins,apiKey,Dictionaries,https://api.collinsdictionary.com/api/v1/documentation/html/,Bilingual Dictionary and Thesaurus Data
+395,Free Dictionary,,Dictionaries,https://dictionaryapi.dev/,"Definitions, phonetics, pronounciations, parts of speech, examples, synonyms"
+396,Indonesia Dictionary,,Dictionaries,https://new-kbbi-api.herokuapp.com/,Indonesia dictionary many words
+397,Lingua Robot,apiKey,Dictionaries,https://www.linguarobot.io,"Word definitions, pronunciations, synonyms, antonyms and others"
+398,Merriam-Webster,apiKey,Dictionaries,https://dictionaryapi.com/,Dictionary and Thesaurus Data
+399,OwlBot,apiKey,Dictionaries,https://owlbot.info/,Definitions with example sentence and photo if available
+400,Oxford,apiKey,Dictionaries,https://developer.oxforddictionaries.com/,Dictionary Data
+401,Synonyms,apiKey,Dictionaries,https://www.synonyms.com/synonyms_api.php,"Synonyms, thesaurus and antonyms information for any given word"
+402,Wiktionary,,Dictionaries,https://en.wiktionary.org/w/api.php,Collaborative dictionary data
+403,Wordnik,apiKey,Dictionaries,https://developer.wordnik.com,Dictionary Data
+404,Words,apiKey,Dictionaries,https://www.wordsapi.com/docs/,"Definitions and synonyms for more than 150,000 words"
+405,Airtable,apiKey,Documents & Productivity,https://airtable.com/api,Integrate with Airtable
+406,Api2Convert,apiKey,Documents & Productivity,https://www.api2convert.com/,Online File Conversion API
+407,apilayer pdflayer,apiKey,Documents & Productivity,https://pdflayer.com,HTML/URL to PDF
+408,Asana,apiKey,Documents & Productivity,https://developers.asana.com/docs,Programmatic access to all data in your asana system
+409,ClickUp,OAuth,Documents & Productivity,https://clickup.com/api,"ClickUp is a robust, cloud-based project management tool for boosting productivity"
+410,Clockify,apiKey,Documents & Productivity,https://clockify.me/developers-api ,Clockify's REST-based API can be used to push/pull data to/from it & integrate it with other systems
+411,CloudConvert,apiKey,Documents & Productivity,https://cloudconvert.com/api/v2,"Online file converter for audio, video, document, ebook, archive, image, spreadsheet, presentation"
+412,Cloudmersive Document and Data Conversion,apiKey,Documents & Productivity,https://cloudmersive.com/convert-api,"HTML/URL to PDF/PNG, Office documents to PDF, image conversion"
+413,Code::Stats,apiKey,Documents & Productivity,https://codestats.net/api-docs,Automatic time tracking for programmers
+414,CraftMyPDF,apiKey,Documents & Productivity,https://craftmypdf.com,Generate PDF documents from templates with a drop-and-drop editor and a simple API
+415,Flowdash,apiKey,Documents & Productivity,https://docs.flowdash.com/docs/api-introduction,Automate business workflows
+416,Html2PDF,apiKey,Documents & Productivity,https://html2pdf.app/,HTML/URL to PDF
+417,iLovePDF,apiKey,Documents & Productivity,https://developer.ilovepdf.com/,"Convert, merge, split, extract text and add page numbers for PDFs. Free for 250 documents/month"
+418,JIRA,OAuth,Documents & Productivity,https://developer.atlassian.com/server/jira/platform/rest-apis/,JIRA is a proprietary issue tracking product that allows bug tracking and agile project management
+419,Mattermost,OAuth,Documents & Productivity,https://api.mattermost.com/,An open source platform for developer collaboration
+420,Mercury,apiKey,Documents & Productivity,https://mercury.postlight.com/web-parser/,Web parser
+421,Monday,apiKey,Documents & Productivity,https://api.developer.monday.com/docs,Programmatically access and update data inside a monday.com account
+422,Notion,OAuth,Documents & Productivity,https://developers.notion.com/docs/getting-started,Integrate with Notion
+423,PandaDoc,apiKey,Documents & Productivity,https://developers.pandadoc.com,DocGen and eSignatures API
+424,Pocket,OAuth,Documents & Productivity,https://getpocket.com/developer/,Bookmarking service
+425,Podio,OAuth,Documents & Productivity,https://developers.podio.com,File sharing and productivity
+426,PrexView,apiKey,Documents & Productivity,https://prexview.com,"Data from XML or JSON to PDF, HTML or Image"
+427,Restpack,apiKey,Documents & Productivity,https://restpack.io/,"Provides screenshot, HTML to PDF and content extraction APIs"
+428,Todoist,OAuth,Documents & Productivity,https://developer.todoist.com,Todo Lists
+429,Vector Express v2.0,,Documents & Productivity,https://vector.express,Free vector file converting API
+430,WakaTime,,Documents & Productivity,https://wakatime.com/developers,Automated time tracking leaderboards for programmers
+431,Zube,OAuth,Documents & Productivity,https://zube.io/docs/api,Full stack project management
+432,Abstract Email Validation,apiKey,Email,https://www.abstractapi.com/email-verification-validation-api,Validate email addresses for deliverability and spam
+433,apilayer mailboxlayer,apiKey,Email,https://mailboxlayer.com,Email address validation
+434,Cloudmersive Validate,apiKey,Email,https://cloudmersive.com/validate-api,"Validate email addresses, phone numbers, VAT numbers and domain names"
+435,Disify,,Email,https://www.disify.com/,Validate and detect disposable and temporary email addresses
+436,DropMail,,Email,https://dropmail.me/api/#live-demo,GraphQL API for creating and managing ephemeral e-mail inboxes
+437,EVA,,Email,https://eva.pingutil.com/,Validate email addresses
+438,Guerrilla Mail,,Email,https://www.guerrillamail.com/GuerrillaMailAPI.html,Disposable temporary Email addresses
+439,ImprovMX,apiKey,Email,https://improvmx.com/api,API for free email forwarding service
+440,Kickbox,,Email,https://open.kickbox.com/,Email verification API
+441,mail.gw,,Email,https://docs.mail.gw,10 Minute Mail
+442,mail.tm,,Email,https://docs.mail.tm,Temporary Email Service
+443,MailboxValidator,apiKey,Email,https://www.mailboxvalidator.com/api-email-free,Validate email address to improve deliverability
+444,MailCheck.ai,,Email,https://www.mailcheck.ai/#documentation,Prevent users to sign up with temporary email addresses
+445,Mailtrap,apiKey,Email,https://mailtrap.docs.apiary.io/#,A service for the safe testing of emails sent from the development and staging environments
+446,Sendgrid,apiKey,Email,https://docs.sendgrid.com/api-reference/,A cloud-based SMTP provider that allows you to send emails without having to maintain email servers
+447,Sendinblue,apiKey,Email,https://developers.sendinblue.com/docs,A service that provides solutions relating to marketing and/or transactional email and/or SMS
+448,Verifier,apiKey,Email,https://verifier.meetchopra.com/docs#/,Verifies that a given email is real
+449,chucknorris.io,,Entertainment,https://api.chucknorris.io,JSON API for hand curated Chuck Norris jokes
+450,Corporate Buzz Words,,Entertainment,https://github.com/sameerkumar18/corporate-bs-generator-api,REST API for Corporate Buzz Words
+451,Excuser,,Entertainment,https://excuser.herokuapp.com/,Get random excuses for various situations
+452,Fun Fact,,Entertainment,https://api.aakhilv.me,A simple HTTPS api that can randomly select and return a fact from the FFA database
+453,Imgflip,,Entertainment,https://imgflip.com/api,Gets an array of popular memes
+454,Meme Maker,,Entertainment,https://mememaker.github.io/API/,REST API for create your own meme
+455,NaMoMemes,,Entertainment,https://github.com/theIYD/NaMoMemes,Memes on Narendra Modi
+456,Random Useless Facts,,Entertainment,https://uselessfacts.jsph.pl/,"Get useless, but true facts"
+457,Techy,,Entertainment,https://techy-api.vercel.app/,JSON and Plaintext API for tech-savvy sounding phrases
+458,Yo Momma Jokes,,Entertainment,https://github.com/beanboi7/yomomma-apiv2,REST API for Yo Momma Jokes
+459,BreezoMeter Pollen,apiKey,Environment,https://docs.breezometer.com/api-documentation/pollen-api/v2/,Daily Forecast pollen conditions data for a specific location
+460,Carbon Interface,apiKey,Environment,https://docs.carboninterface.com/,API to calculate carbon (C02) emissions estimates for common C02 emitting activities
+461,Climatiq,apiKey,Environment,https://docs.climatiq.io,Calculate the environmental footprint created by a broad range of emission-generating activities
+462,Cloverly,apiKey,Environment,https://www.cloverly.com/carbon-offset-documentation,API calculates the impact of common carbon-intensive activities in real time
+463,CO2 Offset,,Environment,https://co2offset.io/api.html,API calculates and validates the carbon footprint
+464,Danish data service Energi,,Environment,https://www.energidataservice.dk/,Open energy data from Energinet to society
+465,GrünstromIndex,,Environment,https://gruenstromindex.de/,Green Power Index for Germany (Grünstromindex/GSI)
+466,IQAir,apiKey,Environment,https://www.iqair.com/air-pollution-data-api,Air quality and weather data
+467,Luchtmeetnet,,Environment,https://api-docs.luchtmeetnet.nl/,Predicted and actual air quality components for The Netherlands (RIVM)
+468,National Grid ESO,,Environment,https://data.nationalgrideso.com/,Open data from Great Britain’s Electricity System Operator
+469,OpenAQ,apiKey,Environment,https://docs.openaq.org/,Open air quality data
+470,PM2.5 Open Data Portal,,Environment,https://pm25.lass-net.org/#apis,Open low-cost PM2.5 sensor data
+471,PM25.in,apiKey,Environment,http://www.pm25.in/api_doc,Air quality of China
+472,PVWatts,apiKey,Environment,https://developer.nrel.gov/docs/solar/pvwatts/v6/,Energy production photovoltaic (PV) energy systems
+473,Srp Energy,apiKey,Environment,https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html,Hourly usage energy report for Srp customers
+474,UK Carbon Intensity,,Environment,https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0,The Official Carbon Intensity API for Great Britain developed by National Grid
+475,Website Carbon,,Environment,https://api.websitecarbon.com/,API to estimate the carbon footprint of loading web pages
+476,Eventbrite,OAuth,Events,https://www.eventbrite.com/platform/api/,Find events
+477,SeatGeek,apiKey,Events,https://platform.seatgeek.com/,"Search events, venues and performers"
+478,Ticketmaster,apiKey,Events,http://developer.ticketmaster.com/products-and-docs/apis/getting-started/,"Search events, attractions, or venues"
+479,Abstract VAT Validation,apiKey,Finance,https://www.abstractapi.com/vat-validation-rates-api,Validate VAT numbers and calculate VAT rates
+480,Aletheia,apiKey,Finance,https://aletheiaapi.com/,"Insider trading data, earnings call analysis, financial statements, and more"
+481,Alpaca,apiKey,Finance,https://alpaca.markets/docs/api-documentation/api-v2/market-data/alpaca-data-api-v2/,Realtime and historical market data on all US equities and ETFs
+482,Alpha Vantage,apiKey,Finance,https://www.alphavantage.co/,Realtime and historical stock data
+483,apilayer marketstack,apiKey,Finance,https://marketstack.com/,"Real-Time, Intraday & Historical Market Data API"
+484,Banco do Brasil,OAuth,Finance,https://developers.bb.com.br/home,All Banco do Brasil financial transaction APIs
+485,Billplz,apiKey,Finance,https://www.billplz.com/api,Payment platform
+486,Binlist,,Finance,https://binlist.net/,Public access to a database of IIN/BIN information
+487,Boleto.Cloud,apiKey,Finance,https://boleto.cloud/,A api to generate boletos in Brazil
+488,Citi,apiKey,Finance,https://sandbox.developerhub.citi.com/api-catalog-list,All Citigroup account and statement data APIs
+489,Econdb,,Finance,https://www.econdb.com/api/,Global macroeconomic data
+490,Fed Treasury,,Finance,https://fiscaldata.treasury.gov/api-documentation/,U.S. Department of the Treasury Data
+491,Finage,apiKey,Finance,https://finage.co.uk,"Finage is a stock, currency, cryptocurrency, indices, and ETFs real-time & historical data provider"
+492,Financial Modeling Prep,apiKey,Finance,https://site.financialmodelingprep.com/developer/docs,Realtime and historical stock data
+493,Finnhub,apiKey,Finance,https://finnhub.io/docs/api,"Real-Time RESTful APIs and Websocket for Stocks, Currencies, and Crypto"
+494,FRED,apiKey,Finance,https://fred.stlouisfed.org/docs/api/fred/,Economic data from the Federal Reserve Bank of St. Louis
+495,Front Accounting APIs,OAuth,Finance,https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule,Front accounting is multilingual and multicurrency software for small businesses
+496,Hotstoks,apiKey,Finance,https://hotstoks.com?utm_source=public-apis,Stock market data powered by SQL
+497,IEX Cloud,apiKey,Finance,https://iexcloud.io/docs/api/,Realtime & Historical Stock and Market Data
+498,IG,apiKey,Finance,https://labs.ig.com/gettingstarted,Spreadbetting and CFD Market Data
+499,Indian Mutual Fund,,Finance,https://www.mfapi.in/,Get complete history of India Mutual Funds Data
+500,Intrinio,apiKey,Finance,https://intrinio.com/,A wide selection of financial data feeds
+501,Klarna,apiKey,Finance,https://docs.klarna.com/klarna-payments/api/payments-api/,Klarna payment and shopping service
+502,MercadoPago,apiKey,Finance,https://www.mercadopago.com.br/developers/es/reference,Mercado Pago API reference - all the information you need to develop your integrations
+503,Mono,apiKey,Finance,https://mono.co/,Connect with users’ bank accounts and access transaction data in Africa
+504,Moov,apiKey,Finance,https://docs.moov.io/api/,"The Moov API makes it simple for platforms to send, receive, and store money"
+505,Nordigen,apiKey,Finance,https://nordigen.com/en/account_information_documenation/integration/quickstart_guide/,Connect to bank accounts using official bank APIs and get raw transaction data
+506,OpenFIGI,apiKey,Finance,https://www.openfigi.com/api,"Equity, index, futures, options symbology from Bloomberg LP"
+507,Plaid,apiKey,Finance,https://plaid.com/,Connect with user's bank accounts and access transaction data
+508,Polygon,apiKey,Finance,https://polygon.io/,Historical stock market data
+509,Portfolio Optimizer,,Finance,https://portfoliooptimizer.io/,Portfolio analysis and optimization
+510,Razorpay IFSC,,Finance,https://razorpay.com/docs/,Indian Financial Systems Code (Bank Branch Codes)
+511,Real Time Finance,apiKey,Finance,https://github.com/Real-time-finance/finance-websocket-API/,Websocket API to access realtime stock data
+512,SEC EDGAR Data,,Finance,https://www.sec.gov/edgar/sec-api-documentation,API to access annual reports of public US companies
+513,SmartAPI,apiKey,Finance,https://smartapi.angelbroking.com/,Gain access to set of <SmartAPI> and create end-to-end broking services
+514,StockData,apiKey,Finance,https://www.StockData.org,"Real-Time, Intraday & Historical Market Data, News and Sentiment API"
+515,Styvio,apiKey,Finance,https://www.Styvio.com,Realtime and historical stock data and current stock sentiment
+516,Tradier,OAuth,Finance,https://developer.tradier.com,"US equity/option market data (delayed, intraday, historical)"
+517,Twelve Data,apiKey,Finance,https://twelvedata.com/,Stock market data (real-time & historical)
+518,WallstreetBets,,Finance,https://dashboard.nbshare.io/apps/reddit/api/,WallstreetBets Stock Comments Sentiment Analysis
+519,Yahoo Finance,apiKey,Finance,https://www.yahoofinanceapi.com/,"Real time low latency Yahoo Finance API for stock market, crypto currencies, and currency exchange"
+520,YNAB,OAuth,Finance,https://api.youneedabudget.com/,Budgeting & Planning
+521,Zoho Books,OAuth,Finance,https://www.zoho.com/books/api/v3/,"Online accounting software, built for your business"
+522,BaconMockup,,Food & Drink,https://baconmockup.com/,Resizable bacon placeholder images
+523,Chomp,apiKey,Food & Drink,https://chompthis.com/api/,Data about various grocery products and foods
+524,Coffee,,Food & Drink,https://coffee.alexflipnote.dev/,Random pictures of coffee
+525,Edamam nutrition,apiKey,Food & Drink,https://developer.edamam.com/edamam-docs-nutrition-api,Nutrition Analysis
+526,Edamam recipes,apiKey,Food & Drink,https://developer.edamam.com/edamam-docs-recipe-api,Recipe Search
+527,Foodish,,Food & Drink,https://github.com/surhud004/Foodish#readme,Random pictures of food dishes
+528,Fruityvice,,Food & Drink,https://www.fruityvice.com,Data about all kinds of fruit
+529,Kroger,apiKey,Food & Drink,https://developer.kroger.com/reference,Supermarket Data
+530,LCBO,apiKey,Food & Drink,https://lcboapi.com/,Alcohol
+531,Open Brewery DB,,Food & Drink,https://www.openbrewerydb.org,"Breweries, Cideries and Craft Beer Bottle Shops"
+532,Open Food Facts,,Food & Drink,https://world.openfoodfacts.org/data,Food Products Database
+533,PunkAPI,,Food & Drink,https://punkapi.com/,Brewdog Beer Recipes
+534,Rustybeer,,Food & Drink,https://rustybeer.herokuapp.com/,Beer brewing tools
+535,Spoonacular,apiKey,Food & Drink,https://spoonacular.com/food-api,"Recipes, Food Products, and Meal Planning"
+536,Systembolaget,apiKey,Food & Drink,https://api-portal.systembolaget.se,Govornment owned liqour store in Sweden
+537,TacoFancy,,Food & Drink,https://github.com/evz/tacofancy-api,Community-driven taco database
+538,Tasty,apiKey,Food & Drink,https://rapidapi.com/apidojo/api/tasty/,"API to query data about recipe, plan, ingredients"
+539,The Report of the Week,,Food & Drink,https://github.com/andyklimczak/TheReportOfTheWeek-API,Food & Drink Reviews
+540,TheCocktailDB,apiKey,Food & Drink,https://www.thecocktaildb.com/api.php,Cocktail Recipes
+541,TheMealDB,apiKey,Food & Drink,https://www.themealdb.com/api.php,Meal Recipes
+542,Untappd,OAuth,Food & Drink,https://untappd.com/api/docs,Social beer sharing
+543,What's on the menu?,apiKey,Food & Drink,http://nypl.github.io/menus-api/,NYPL human-transcribed historical menu collection
+544,WhiskyHunter,,Food & Drink,https://whiskyhunter.net/api/,Past online whisky auctions statistical data
+545,Zestful,apiKey,Food & Drink,https://zestfuldata.com/,Parse recipe ingredients
+546,Age of Empires II,,Games & Comics,https://age-of-empires-2-api.herokuapp.com,Get information about Age of Empires II resources
+547,AmiiboAPI,,Games & Comics,https://amiiboapi.com/,Nintendo Amiibo Information
+548,Animal Crossing: New Horizons,,Games & Comics,http://acnhapi.com/,"API for critters, fossils, art, music, furniture and villagers"
+549,Autochess VNG,,Games & Comics,https://github.com/didadadida93/autochess-vng-api,Rest Api for Autochess VNG
+550,Barter.VG,,Games & Comics,https://github.com/bartervg/barter.vg/wiki,"Provides information about Game, DLC, Bundles, Giveaways, Trading"
+551,Battle.net,OAuth,Games & Comics,https://develop.battle.net/documentation/guides/getting-started,"Diablo III, Hearthstone, StarCraft II and World of Warcraft game data APIs"
+552,Board Game Geek,,Games & Comics,https://boardgamegeek.com/wiki/page/BGG_XML_API2,"Board games, RPG and videogames"
+553,Brawl Stars,apiKey,Games & Comics,https://developer.brawlstars.com,Brawl Stars Game Information
+554,Bugsnax,,Games & Comics,https://www.bugsnaxapi.com/,Get information about Bugsnax
+555,CheapShark,,Games & Comics,https://www.cheapshark.com/api,Steam/PC Game Prices and Deals
+556,Chess.com,,Games & Comics,https://www.chess.com/news/view/published-data-api,Chess.com read-only REST API
+557,Chuck Norris Database,,Games & Comics,http://www.icndb.com/api/,Jokes
+558,Clash of Clans,apiKey,Games & Comics,https://developer.clashofclans.com,Clash of Clans Game Information
+559,Clash Royale,apiKey,Games & Comics,https://developer.clashroyale.com,Clash Royale Game Information
+560,Comic Vine,,Games & Comics,https://comicvine.gamespot.com/api/documentation,Comics
+561,Crafatar,,Games & Comics,https://crafatar.com,API for Minecraft skins and faces
+562,Cross Universe,,Games & Comics,https://crossuniverse.psychpsyo.com/apiDocs.html,Cross Universe Card Data
+563,Deck of Cards,,Games & Comics,http://deckofcardsapi.com/,Deck of Cards
+564,Destiny The Game,apiKey,Games & Comics,https://bungie-net.github.io/multi/index.html,Bungie Platform API
+565,Digimon Information,,Games & Comics,https://digimon-api.vercel.app/,Provides information about digimon creatures
+566,Digimon TCG,,Games & Comics,https://documenter.getpostman.com/view/14059948/TzecB4fH,Search for Digimon cards in digimoncard.io
+567,Disney,,Games & Comics,https://disneyapi.dev,Information of Disney characters
+568,Dota 2,apiKey,Games & Comics,https://docs.opendota.com/,"Provides information about Player stats , Match stats, Rankings for Dota 2"
+569,Dungeons and Dragons,,Games & Comics,https://www.dnd5eapi.co/docs/,"Reference for 5th edition spells, classes, monsters, and more"
+570,Dungeons and Dragons (Alternate),,Games & Comics,https://open5e.com/,Includes all monsters and spells from the SRD (System Reference Document) as well as a search API
+571,Eve Online,OAuth,Games & Comics,https://esi.evetech.net/ui,Third-Party Developer Documentation
+572,FFXIV Collect,,Games & Comics,https://ffxivcollect.com/,Final Fantasy XIV data on collectables
+573,FIFA Ultimate Team,,Games & Comics,https://www.easports.com/fifa/ultimate-team/api/fut/item,FIFA Ultimate Team items API
+574,Final Fantasy XIV,,Games & Comics,https://xivapi.com/,Final Fantasy XIV Game data API
+575,Fortnite,apiKey,Games & Comics,https://fortnitetracker.com/site-api,Fortnite Stats
+576,Forza,,Games & Comics,https://docs.forza-api.tk,Show random image of car from Forza
+577,FreeToGame,,Games & Comics,https://www.freetogame.com/api-doc,Free-To-Play Games Database
+578,Fun Facts,,Games & Comics,https://asli-fun-fact-api.herokuapp.com/,Random Fun Facts
+579,FunTranslations,,Games & Comics,https://api.funtranslations.com/,Translate Text into funny languages
+580,GamerPower,,Games & Comics,https://www.gamerpower.com/api-read,Game Giveaways Tracker
+581,GDBrowser,,Games & Comics,https://gdbrowser.com/api,Easy way to use the Geometry Dash Servers
+582,Geek-Jokes,,Games & Comics,https://github.com/sameerkumar18/geek-joke-api,Fetch a random geeky/programming related joke for use in all sorts of applications
+583,Genshin Impact,,Games & Comics,https://genshin.dev,Genshin Impact game data
+584,Giant Bomb,apiKey,Games & Comics,https://www.giantbomb.com/api/documentation,Video Games
+585,GraphQL Pokemon,,Games & Comics,https://github.com/favware/graphql-pokemon,GraphQL powered Pokemon API. Supports generations 1 through 8
+586,Guild Wars 2,apiKey,Games & Comics,https://wiki.guildwars2.com/wiki/API:Main,Guild Wars 2 Game Information
+587,GW2Spidy,,Games & Comics,https://github.com/rubensayshi/gw2spidy/wiki,"GW2Spidy API, Items data on the Guild Wars 2 Trade Market"
+588,Halo,apiKey,Games & Comics,https://developer.haloapi.com/,Halo 5 and Halo Wars 2 Information
+589,Hearthstone,X-Mashape-Key,Games & Comics,http://hearthstoneapi.com/,Hearthstone Cards Information
+590,Humble Bundle,apiKey,Games & Comics,https://rapidapi.com/Ziggoto/api/humble-bundle,Humble Bundle's current bundles
+591,Humor,apiKey,Games & Comics,https://humorapi.com,"Humor, Jokes, and Memes"
+592,Hypixel,apiKey,Games & Comics,https://api.hypixel.net/,Hypixel player stats
+593,Hyrule Compendium,,Games & Comics,https://github.com/gadhagod/Hyrule-Compendium-API,Data on all interactive items from The Legend of Zelda: BOTW
+594,Hytale,,Games & Comics,https://hytale-api.com/,Hytale blog posts and jobs
+595,IGDB.com,apiKey,Games & Comics,https://api-docs.igdb.com,Video Game Database
+596,JokeAPI,,Games & Comics,https://sv443.net/jokeapi/v2/,"Programming, Miscellaneous and Dark Jokes"
+597,Jokes One,apiKey,Games & Comics,https://jokes.one/api/joke/,Joke of the day and large category of jokes accessible via REST API
+598,Jservice,,Games & Comics,http://jservice.io,Jeopardy Question Database
+599,Lichess,OAuth,Games & Comics,https://lichess.org/api,"Access to all data of users, games, puzzles and etc on Lichess"
+600,Magic The Gathering,,Games & Comics,http://magicthegathering.io/,Magic The Gathering Game Information
+601,Mario Kart Tour,OAuth,Games & Comics,https://mario-kart-tour-api.herokuapp.com/,"API for Drivers, Karts, Gliders and Courses"
+602,Marvel,apiKey,Games & Comics,https://developer.marvel.com,Marvel Comics
+603,Minecraft Server Status,,Games & Comics,https://api.mcsrvstat.us,API to get Information about a Minecraft Server
+604,MMO Games,,Games & Comics,https://www.mmobomb.com/api,"MMO Games Database, News and Giveaways"
+605,mod.io,apiKey,Games & Comics,https://docs.mod.io,Cross Platform Mod API
+606,Mojang,apiKey,Games & Comics,https://wiki.vg/Mojang_API,Mojang / Minecraft API
+607,Monster Hunter World,,Games & Comics,https://docs.mhw-db.com/,Monster Hunter World data
+608,Open Trivia,,Games & Comics,https://opentdb.com/api_config.php,Trivia Questions
+609,PandaScore,apiKey,Games & Comics,https://developers.pandascore.co/,E-sports games and results
+610,Path of Exile,OAuth,Games & Comics,https://www.pathofexile.com/developer/docs,Path of Exile Game Information
+611,PlayerDB,,Games & Comics,https://playerdb.co/,"Query Minecraft, Steam and XBox Accounts"
+612,Pokéapi,,Games & Comics,https://pokeapi.co,Pokémon Information
+613,PokéAPI (GraphQL),,Games & Comics,https://github.com/mazipan/graphql-pokeapi,The Unofficial GraphQL for PokeAPI
+614,Pokémon TCG,,Games & Comics,https://pokemontcg.io,Pokémon TCG Information
+615,Psychonauts,,Games & Comics,https://psychonauts-api.netlify.app/,Psychonauts World Characters Information and PSI Powers
+616,PUBG,apiKey,Games & Comics,https://developer.pubg.com/,Access in-game PUBG data
+617,Puyo Nexus,,Games & Comics,https://github.com/deltadex7/puyodb-api-deno,Puyo Puyo information from Puyo Nexus Wiki
+618,quizapi.io,apiKey,Games & Comics,https://quizapi.io/,Access to various kind of quiz questions
+619,Raider,,Games & Comics,https://raider.io/api,Provides detailed character and guild rankings for Raiding and Mythic+ content in World of Warcraft
+620,RAWG.io,apiKey,Games & Comics,https://rawg.io/apidocs,"500,000+ games for 50 platforms including mobiles"
+621,Rick and Morty,,Games & Comics,https://rickandmortyapi.com,"All the Rick and Morty information, including images"
+622,Riot Games,apiKey,Games & Comics,https://developer.riotgames.com/,League of Legends Game Information
+623,RPS 101,,Games & Comics,https://rps101.pythonanywhere.com/api,"Rock, Paper, Scissors with 101 objects"
+624,RuneScape,,Games & Comics,https://runescape.wiki/w/Application_programming_interface,RuneScape and OSRS RPGs information
+625,Sakura CardCaptor,,Games & Comics,https://github.com/JessVel/sakura-card-captor-api,Sakura CardCaptor Cards Information
+626,Scryfall,,Games & Comics,https://scryfall.com/docs/api,Magic: The Gathering database
+627,SpaceTradersAPI,OAuth,Games & Comics,https://spacetraders.io?rel=pub-apis,A playable inter-galactic space trading MMOAPI
+628,Steam,apiKey,Games & Comics,https://steamapi.xpaw.me/,Steam Web API documentation
+629,Steam,,Games & Comics,https://github.com/Revadike/InternalSteamWebAPI/wiki,Internal Steam Web API documentation
+630,SuperHeroes,apiKey,Games & Comics,https://superheroapi.com,All SuperHeroes and Villains data from all universes under a single API
+631,TCGdex,,Games & Comics,https://www.tcgdex.net/docs,Multi languages Pokémon TCG Information
+632,Tebex,X-Mashape-Key,Games & Comics,https://docs.tebex.io/plugin/,Tebex API for information about game purchases
+633,TETR.IO,,Games & Comics,https://tetr.io/about/api/,TETR.IO Tetra Channel API
+634,Tronald Dump,,Games & Comics,https://www.tronalddump.io/,The dumbest things Donald Trump has ever said
+635,Universalis,,Games & Comics,https://universalis.app/docs/index.html,Final Fantasy XIV market board data
+636,Valorant (non-official),,Games & Comics,https://valorant-api.com,"An extensive API containing data of most Valorant in-game items, assets and more"
+637,Warface (non-official),,Games & Comics,https://api.wfstats.cf,Official API proxy with better data structure and more features
+638,Wargaming.net,apiKey,Games & Comics,https://developers.wargaming.net/,Wargaming.net info and stats
+639,When is next MCU film,,Games & Comics,https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md,Upcoming MCU film information
+640,xkcd,,Games & Comics,https://xkcd.com/json.html,Retrieve xkcd comics as JSON
+641,Yu-Gi-Oh!,,Games & Comics,https://db.ygoprodeck.com/api-guide/,Yu-Gi-Oh! TCG Information
+642,Abstract IP Geolocation,apiKey,Geocoding,https://www.abstractapi.com/ip-geolocation-api,Geolocate website visitors from their IPs
+643,Actinia Grass GIS,apiKey,Geocoding,https://actinia.mundialis.de/api_docs/,Actinia is an open source REST API for geographical data that uses GRASS GIS
+644,administrative-divisons-db,,Geocoding,https://github.com/kamikazechaser/administrative-divisions-db,Get all administrative divisions of a country
+645,adresse.data.gouv.fr,,Geocoding,https://adresse.data.gouv.fr,"Address database of France, geocoding and reverse"
+646,Airtel IP,,Geocoding,https://sys.airtel.lv/ip2country/1.1.1.1/?full=true,IP Geolocation API. Collecting data from multiple sources
+647,Apiip,apiKey,Geocoding,https://apiip.net/,Get location information by IP address
+648,apilayer ipstack,apiKey,Geocoding,https://ipstack.com/,Locate and identify website visitors by IP address
+649,Battuta,apiKey,Geocoding,http://battuta.medunes.net,A (country/region/city) in-cascade location API
+650,BigDataCloud,apiKey,Geocoding,https://www.bigdatacloud.com/ip-geolocation-apis,Provides fast and accurate IP geolocation APIs along with security checks and confidence area
+651,Bing Maps,apiKey,Geocoding,https://www.microsoft.com/maps/,Create/customize digital maps based on Bing Maps data
+652,bng2latlong,,Geocoding,https://www.getthedata.com/bng2latlong,Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude
+653,Cartes.io,,Geocoding,https://github.com/M-Media-Group/Cartes.io/wiki/API,Create maps and markers for anything
+654,Cep.la,,Geocoding,http://cep.la/,"Brazil RESTful API to find information about streets, zip codes, neighborhoods, cities and states"
+655,CitySDK,,Geocoding,http://www.citysdk.eu/citysdk-toolkit/,Open APIs for select European cities
+656,Country,,Geocoding,http://country.is/,Get your visitor's country from their IP
+657,CountryStateCity,apiKey,Geocoding,https://countrystatecity.in/,"World countries, states, regions, provinces, cities & towns in JSON, SQL, XML, YAML, & CSV format"
+658,Ducks Unlimited,,Geocoding,https://gis.ducks.org/datasets/du-university-chapters/api,API explorer that gives a query URL with a JSON response of locations and cities
+659,FreeGeoIP,,Geocoding,https://freegeoip.app/,"Free geo ip information, no registration required. 15k/hour rate limit"
+660,GeoApi,,Geocoding,https://api.gouv.fr/api/geoapi.html,French geographical data
+661,Geoapify,apiKey,Geocoding,https://www.geoapify.com/api/geocoding-api/,"Forward and reverse geocoding, address autocomplete"
+662,Geocod.io,apiKey,Geocoding,https://www.geocod.io/,Address geocoding / reverse geocoding in bulk
+663,Geocode.xyz,,Geocoding,https://geocode.xyz/api,"Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing"
+664,Geocodify.com,apiKey,Geocoding,https://geocodify.com/,"Worldwide geocoding, geoparsing and autocomplete for addresses"
+665,Geodata.gov.gr,,Geocoding,https://geodata.gov.gr/en/,Open geospatial data and API service for Greece
+666,GeoDataSource,apiKey,Geocoding,https://www.geodatasource.com/web-service,Geocoding of city name by using latitude and longitude coordinates
+667,GeoDB Cities,apiKey,Geocoding,http://geodb-cities-api.wirefreethought.com/,"Get global city, region, and country data"
+668,GeographQL,,Geocoding,https://geographql.netlify.app,"A Country, State, and City GraphQL API"
+669,GeoJS,,Geocoding,https://www.geojs.io/,IP geolocation with ChatOps integration
+670,Geokeo,,Geocoding,https://geokeo.com,Geokeo geocoding service- with 2500 free api requests daily
+671,GeoNames,,Geocoding,http://www.geonames.org/export/web-services.html,Place names and other geographical data
+672,geoPlugin,,Geocoding,https://www.geoplugin.com,IP geolocation and currency conversion
+673,Google Earth Engine,apiKey,Geocoding,https://developers.google.com/earth-engine/,A cloud-based platform for planetary-scale environmental data analysis
+674,Google Maps,apiKey,Geocoding,https://developers.google.com/maps/,Create/customize digital maps based on Google Maps data
+675,Graph Countries,,Geocoding,https://github.com/lennertVanSever/graphcountries,"Country-related data like currencies, languages, flags, regions+subregions and bordering countries"
+676,HelloSalut,,Geocoding,https://fourtonfish.com/project/hellosalut-api/,Get hello translation following user language
+677,HERE Maps,apiKey,Geocoding,https://developer.here.com,Create/customize digital maps based on HERE Maps data
+678,Hirak IP to Country,apiKey,Geocoding,https://iplocation.hirak.site/,"Ip to location with country code, currency code & currency name, fast response, unlimited requests"
+679,Hong Kong GeoData Store,,Geocoding,https://geodata.gov.hk/gs/,API for accessing geo-data of Hong Kong
+680,IBGE,,Geocoding,https://servicodados.ibge.gov.br/api/docs/,Aggregate services of IBGE (Brazilian Institute of Geography and Statistics)
+681,IP 2 Country,,Geocoding,https://ip2country.info,Map an IP to a country
+682,IP Address Details,,Geocoding,https://ipinfo.io/,Find geolocation with ip address
+683,IP Vigilante,,Geocoding,https://www.ipvigilante.com/,Free IP Geolocation API
+684,ip-api,,Geocoding,https://ip-api.com/docs,Find location with IP address or domain
+685,IP2Location,apiKey,Geocoding,https://www.ip2location.com/web-service/ip2location,IP geolocation web service to get more than 55 parameters
+686,IP2Proxy,apiKey,Geocoding,https://www.ip2location.com/web-service/ip2proxy,Detect proxy and VPN using IP address
+687,ipapi.co,,Geocoding,https://ipapi.co/api/#introduction,Find IP address location information
+688,ipapi.com,apiKey,Geocoding,https://ipapi.com/,Real-time Geolocation & Reverse IP Lookup REST API
+689,IPGEO,,Geocoding,https://api.techniknews.net/ipgeo/,Unlimited free IP Address API with useful information
+690,ipgeolocation,apiKey,Geocoding,https://ipgeolocation.io/,IP Geolocation AP with free plan 30k requests per month
+691,IPInfoDB,apiKey,Geocoding,https://www.ipinfodb.com/api,"Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address"
+692,Kakao Maps,apiKey,Geocoding,https://apis.map.kakao.com,Kakao Maps provide multiple APIs for Korean maps
+693,keycdn IP Location Finder,apiKey,Geocoding,https://tools.keycdn.com/geo,Get the IP geolocation data through the simple REST API. All the responses are JSON encoded
+694,LocationIQ,apiKey,Geocoding,https://locationiq.org/docs/,Provides forward/reverse geocoding and batch geocoding
+695,Longdo Map,apiKey,Geocoding,https://map.longdo.com/docs/,Interactive map with detailed places and information portal in Thailand
+696,Mapbox,apiKey,Geocoding,https://docs.mapbox.com/,Create/customize beautiful digital maps
+697,MapQuest,apiKey,Geocoding,https://developer.mapquest.com/,To access tools and resources to map the world
+698,Mexico,,Geocoding,https://github.com/IcaliaLabs/sepomex,Mexico RESTful zip codes API
+699,Nominatim,,Geocoding,https://nominatim.org/release-docs/latest/api/Overview/,Provides worldwide forward / reverse geocoding
+700,"One Map, Singapore",apiKey,Geocoding,https://www.onemap.gov.sg/docs/,Singapore Land Authority REST API services for Singapore addresses
+701,OnWater,,Geocoding,https://onwater.io/,Determine if a lat/lon is on water or land
+702,Open Topo Data,,Geocoding,https://www.opentopodata.org,Elevation and ocean depth for a latitude and longitude
+703,OpenCage,apiKey,Geocoding,https://opencagedata.com,Forward and reverse geocoding using open data
+704,openrouteservice.org,apiKey,Geocoding,https://openrouteservice.org/,"Directions, POIs, isochrones, geocoding (+reverse), elevation, and more"
+705,OpenStreetMap,OAuth,Geocoding,http://wiki.openstreetmap.org/wiki/API,"Navigation, geolocation and geographical data"
+706,Pinball Map,,Geocoding,https://pinballmap.com/api/v1/docs,A crowdsourced map of public pinball machines
+707,positionstack,apiKey,Geocoding,https://positionstack.com/,Forward & Reverse Batch Geocoding REST API
+708,Postali,,Geocoding,https://postali.app/api,Mexico Zip Codes API
+709,PostcodeData.nl,,Geocoding,http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json,Provide geolocation data based on postcode for Dutch addresses
+710,Postcodes.io,,Geocoding,https://postcodes.io,Postcode lookup & Geolocation for the UK
+711,Queimadas INPE,,Geocoding,https://queimadas.dgi.inpe.br/queimadas/dados-abertos/,Access to heat focus data (probable wildfire)
+712,REST Countries,,Geocoding,https://restcountries.com,Get information about countries via a RESTful API
+713,RoadGoat Cities,apiKey,Geocoding,https://www.roadgoat.com/business/cities-api,Cities content & photos API
+714,Rwanda Locations,,Geocoding,https://rapidapi.com/victorkarangwa4/api/rwanda,"Rwanda Provences, Districts, Cities, Capital City, Sector, cells, villages and streets"
+715,SLF,,Geocoding,https://github.com/slftool/slftool.github.io/blob/master/API.md,"German city, country, river, database"
+716,SpotSense,apiKey,Geocoding,https://spotsense.io/,Add location based interactions to your mobile app
+717,Telize,apiKey,Geocoding,https://rapidapi.com/fcambus/api/telize/,Telize offers location information from any IP address
+718,TomTom,apiKey,Geocoding,https://developer.tomtom.com/,"Maps, Directions, Places and Traffic APIs"
+719,Uebermaps,apiKey,Geocoding,https://uebermaps.com/api/v2,Discover and share maps with friends
+720,US ZipCode,apiKey,Geocoding,https://www.smarty.com/docs/cloud/us-zipcode-api,Validate and append data for any US ZipCode
+721,Utah AGRC,apiKey,Geocoding,https://api.mapserv.utah.gov,Utah Web API for geocoding Utah addresses
+722,ViaCep,,Geocoding,https://viacep.com.br,Brazil RESTful zip codes API
+723,What3Words,apiKey,Geocoding,https://what3words.com,Three words as rememberable and unique coordinates worldwide
+724,Yandex.Maps Geocoder,apiKey,Geocoding,https://yandex.com/dev/maps/geocoder,Use geocoding to get an object's coordinates from its address
+725,ZipCodeAPI,apiKey,Geocoding,https://www.zipcodeapi.com,"US zip code distance, radius and location API"
+726,Zippopotam.us,,Geocoding,http://www.zippopotam.us,"Get information about place such as country, city, state, etc"
+727,Ziptastic,,Geocoding,https://ziptasticapi.com/,"Get the country, state, and city of any US zip-code"
+728,Bank Negara Malaysia Open Data,,Government,https://apikijangportal.bnm.gov.my/,Malaysia Central Bank Open Data
+729,BCLaws,,Government,https://www.bclaws.gov.bc.ca/civix/template/complete/api/index.html,Access to the laws of British Columbia
+730,Brazil,,Government,https://brasilapi.com.br/,Community driven API for Brazil Public Data
+731,Brazil Central Bank Open Data,,Government,https://dadosabertos.bcb.gov.br/,Brazil Central Bank Open Data
+732,Brazil Receita WS,,Government,https://www.receitaws.com.br/,Consult companies by CNPJ for Brazilian companies
+733,Brazilian Chamber of Deputies Open Data,,Government,https://dadosabertos.camara.leg.br/swagger/api.html,"Provides legislative information in Apis XML and JSON, as well as files in various formats"
+734,Census.gov,,Government,https://www.census.gov/data/developers/data-sets.html,The US Census Bureau provides various APIs and data sets on demographics and businesses
+735,"City, Berlin",,Government,https://daten.berlin.de/,Berlin(DE) City Open Data
+736,"City, Gdańsk",,Government,https://ckan.multimediagdansk.pl/en,Gdańsk (PL) City Open Data
+737,"City, Gdynia",,Government,http://otwartedane.gdynia.pl/en/api_doc.html,Gdynia (PL) City Open Data
+738,"City, Helsinki",,Government,https://hri.fi/en_gb/,Helsinki(FI) City Open Data
+739,"City, Lviv",,Government,https://opendata.city-adm.lviv.ua/,Lviv(UA) City Open Data
+740,"City, Nantes Open Data",apiKey,Government,https://data.nantesmetropole.fr/pages/home/,Nantes(FR) City Open Data
+741,"City, New York Open Data",,Government,https://opendata.cityofnewyork.us/,New York (US) City Open Data
+742,"City, Prague Open Data",,Government,http://opendata.praha.eu/en,Prague(CZ) City Open Data
+743,"City, Toronto Open Data",,Government,https://open.toronto.ca/,Toronto (CA) City Open Data
+744,Code.gov,apiKey,Government,https://code.gov,The primary platform for Open Source and code sharing for the U.S. Federal Government
+745,Colorado Information Marketplace,,Government,https://data.colorado.gov/,Colorado State Government Open Data
+746,Data USA,,Government,https://datausa.io/about/api/,US Public Data
+747,Data.gov,apiKey,Government,https://api.data.gov/,US Government Data
+748,Data.parliament.uk,,Government,https://explore.data.parliament.uk/?learnmore=Members,"Contains live datasets including information about petitions, bills, MP votes, attendance and more"
+749,Deutscher Bundestag DIP,apiKey,Government,https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf,"This API provides read access to DIP entities (e.g. activities, persons, printed material)"
+750,District of Columbia Open Data,,Government,http://opendata.dc.gov/pages/using-apis,"Contains D.C. government public datasets, including crime, GIS, financial data, and so on"
+751,EPA,,Government,https://www.epa.gov/developers/data-data-products#apis,Web services and data sets from the US Environmental Protection Agency
+752,FBI Wanted,,Government,https://www.fbi.gov/wanted/api,Access information on the FBI Wanted program
+753,FEC,apiKey,Government,https://api.open.fec.gov/developers/,Information on campaign donations in federal elections
+754,Federal Register,,Government,https://www.federalregister.gov/reader-aids/developer-resources/rest-api,The Daily Journal of the United States Government
+755,Food Standards Agency,,Government,http://ratings.food.gov.uk/open-data/en-GB,UK food hygiene rating data API
+756,"Gazette Data, UK",OAuth,Government,https://www.thegazette.co.uk/data,UK official public record API
+757,Gun Policy,apiKey,Government,https://www.gunpolicy.org/api,International firearm injury prevention and policy
+758,INEI,,Government,http://iinei.inei.gob.pe/microdatos/,Peruvian Statistical Government Open Data
+759,Interpol Red Notices,,Government,https://interpol.api.bund.dev/,Access and search Interpol Red Notices
+760,Istanbul (İBB) Open Data,,Government,https://data.ibb.gov.tr,Data sets from the İstanbul Metropolitan Municipality (İBB)
+761,"National Park Service, US",apiKey,Government,https://www.nps.gov/subjects/developer/,Data from the US National Park Service
+762,"Open Government, ACT",,Government,https://www.data.act.gov.au/,Australian Capital Territory Open Data
+763,"Open Government, Argentina",,Government,https://datos.gob.ar/,Argentina Government Open Data
+764,"Open Government, Australia",,Government,https://www.data.gov.au/,Australian Government Open Data
+765,"Open Government, Austria",,Government,https://www.data.gv.at/,Austria Government Open Data
+766,"Open Government, Belgium",,Government,https://data.gov.be/,Belgium Government Open Data
+767,"Open Government, Canada",,Government,http://open.canada.ca/en,Canadian Government Open Data
+768,"Open Government, Colombia",,Government,https://www.dane.gov.co/,Colombia Government Open Data
+769,"Open Government, Cyprus",,Government,https://data.gov.cy/?language=en,Cyprus Government Open Data
+770,"Open Government, Czech Republic",,Government,https://data.gov.cz/english/,Czech Republic Government Open Data
+771,"Open Government, Denmark",,Government,https://www.opendata.dk/,Denmark Government Open Data
+772,"Open Government, Estonia",apiKey,Government,https://avaandmed.eesti.ee/instructions/opendata-dataset-api,Estonia Government Open Data
+773,"Open Government, Finland",,Government,https://www.avoindata.fi/en,Finland Government Open Data
+774,"Open Government, France",apiKey,Government,https://www.data.gouv.fr/,French Government Open Data
+775,"Open Government, Germany",,Government,https://www.govdata.de/daten/-/details/govdata-metadatenkatalog,Germany Government Open Data
+776,"Open Government, Greece",OAuth,Government,https://data.gov.gr/,Greece Government Open Data
+777,"Open Government, India",apiKey,Government,https://data.gov.in/,Indian Government Open Data
+778,"Open Government, Ireland",,Government,https://data.gov.ie/pages/developers,Ireland Government Open Data
+779,"Open Government, Italy",,Government,https://www.dati.gov.it/,Italy Government Open Data
+780,"Open Government, Korea",apiKey,Government,https://www.data.go.kr/,Korea Government Open Data
+781,"Open Government, Lithuania",,Government,https://data.gov.lt/public/api/1,Lithuania Government Open Data
+782,"Open Government, Luxembourg",apiKey,Government,https://data.public.lu,Luxembourgish Government Open Data
+783,"Open Government, Mexico",,Government,https://www.inegi.org.mx/datos/,Mexican Statistical Government Open Data
+784,"Open Government, Mexico",,Government,https://datos.gob.mx/,Mexico Government Open Data
+785,"Open Government, Netherlands",,Government,https://data.overheid.nl/en/ondersteuning/data-publiceren/api,Netherlands Government Open Data
+786,"Open Government, New South Wales",apiKey,Government,https://api.nsw.gov.au/,New South Wales Government Open Data
+787,"Open Government, New Zealand",,Government,https://www.data.govt.nz/,New Zealand Government Open Data
+788,"Open Government, Norway",,Government,https://data.norge.no/dataservices,Norwegian Government Open Data
+789,"Open Government, Peru",,Government,https://www.datosabiertos.gob.pe/,Peru Government Open Data
+790,"Open Government, Poland",,Government,https://dane.gov.pl/en,Poland Government Open Data
+791,"Open Government, Portugal",,Government,https://dados.gov.pt/en/docapi/,Portugal Government Open Data
+792,"Open Government, Queensland Government",,Government,https://www.data.qld.gov.au/,Queensland Government Open Data
+793,"Open Government, Romania",,Government,http://data.gov.ro/,Romania Government Open Data
+794,"Open Government, Saudi Arabia",,Government,https://data.gov.sa,Saudi Arabia Government Open Data
+795,"Open Government, Singapore",,Government,https://data.gov.sg/developer,Singapore Government Open Data
+796,"Open Government, Slovakia",,Government,https://data.gov.sk/en/,Slovakia Government Open Data
+797,"Open Government, Slovenia",,Government,https://podatki.gov.si/,Slovenia Government Open Data
+798,"Open Government, South Australian Government",,Government,https://data.sa.gov.au/,South Australian Government Open Data
+799,"Open Government, Spain",,Government,https://datos.gob.es/en,Spain Government Open Data
+800,"Open Government, Sweden",,Government,https://www.dataportal.se/en/dataservice/91_29789/api-for-the-statistical-database,Sweden Government Open Data
+801,"Open Government, Switzerland",,Government,https://handbook.opendata.swiss/de/content/nutzen/api-nutzen.html,Switzerland Government Open Data
+802,"Open Government, Taiwan",,Government,https://data.gov.tw/,Taiwan Government Open Data
+803,"Open Government, Thailand",apiKey,Government,https://data.go.th/,Thailand Government Open Data
+804,"Open Government, UK",,Government,https://data.gov.uk/,UK Government Open Data
+805,"Open Government, USA",,Government,https://www.data.gov/,United States Government Open Data
+806,"Open Government, Victoria State Government",,Government,https://www.data.vic.gov.au/,Victoria State Government Open Data
+807,"Open Government, West Australia",,Government,https://data.wa.gov.au/,West Australia Open Data
+808,PRC Exam Schedule,,Government,https://api.whenisthenextboardexam.com/docs/,Unofficial Philippine Professional Regulation Commission's examination schedule
+809,Represent by Open North,,Government,https://represent.opennorth.ca/,Find Canadian Government Representatives
+810,UK Companies House,OAuth,Government,https://developer.company-information.service.gov.uk/,UK Companies House Data from the UK government
+811,US Presidential Election Data by TogaTech,,Government,https://uselection.togatech.org/api/,Basic candidate data and live electoral vote counts for top two parties in US presidential election
+812,USA.gov,apiKey,Government,https://www.usa.gov/developer,"Authoritative information on U.S. programs, events, services and more"
+813,USAspending.gov,,Government,https://api.usaspending.gov/,US federal spending data
+814,CMS.gov,apiKey,Health,https://data.cms.gov/provider-data/,Access to the data from the CMS - medicare.gov
+815,Coronavirus,,Health,https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme,HTTP API for Latest Covid-19 Data
+816,Coronavirus in the UK,,Health,https://coronavirus.data.gov.uk/details/developers-guide,"UK Government coronavirus data, including deaths and cases by region"
+817,Covid Tracking Project,,Health,https://covidtracking.com/data/api/version-2,Covid-19  data for the US
+818,Covid-19,,Health,https://covid19api.com/,"Covid 19 spread, infection and recovery"
+819,Covid-19,,Health,https://github.com/M-Media-Group/Covid-19-API,"Covid 19 cases, deaths and recovery per country"
+820,Covid-19 Datenhub,,Health,https://npgeo-corona-npgeo-de.hub.arcgis.com,"Maps, datasets, applications and more in the context of COVID-19"
+821,Covid-19 Government Response,,Health,https://covidtracker.bsg.ox.ac.uk,Government measures tracker to fight against the Covid-19 pandemic
+822,Covid-19 India,,Health,https://data.covid19india.org/,"Covid 19 statistics state and district wise about cases, vaccinations, recovery within India"
+823,Covid-19 JHU CSSE,,Health,https://nuttaphat.com/covid19-api/,Open-source API for exploring Covid19 cases based on JHU CSSE
+824,Covid-19 Live Data,,Health,https://github.com/mathdroid/covid-19-api,"Global and countrywise data of Covid 19 daily Summary, confirmed cases, recovered and deaths"
+825,Covid-19 Philippines,,Health,https://github.com/Simperfy/Covid-19-API-Philippines-DOH,Unofficial Covid-19 Web API for Philippines from data collected by DOH
+826,COVID-19 Tracker Canada,,Health,https://api.covid19tracker.ca/docs/1.0/overview,Details on Covid-19 cases across Canada
+827,COVID-19 Tracker Sri Lanka,,Health,https://www.hpb.health.gov.lk/en/api-documentation,Provides situation of the COVID-19 patients reported in Sri Lanka
+828,COVID-ID,,Health,https://data.covid19.go.id/public/api/prov.json,Indonesian government Covid data per province
+829,Dataflow Kit COVID-19,,Health,https://covid-19.dataflowkit.com,COVID-19 live statistics into sites per hour
+830,FoodData Central,apiKey,Health,https://fdc.nal.usda.gov/,National Nutrient Database for Standard Reference
+831,Healthcare.gov,,Health,https://www.healthcare.gov/developers/,Educational content about the US Health Insurance Marketplace
+832,Humanitarian Data Exchange,,Health,https://data.humdata.org/,Humanitarian Data Exchange (HDX) is open platform for sharing data across crises and organisations
+833,Infermedica,apiKey,Health,https://developer.infermedica.com/docs/,NLP based symptom checker and patient triage API for health diagnosis from text
+834,LAPIS,,Health,https://cov-spectrum.ethz.ch/public,SARS-CoV-2 genomic sequences from public sources
+835,Lexigram,apiKey,Health,https://docs.lexigram.io/,"NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology"
+836,Makeup,,Health,http://makeup-api.herokuapp.com/,Makeup Information
+837,MyVaccination,,Health,https://documenter.getpostman.com/view/16605343/Tzm8GG7u,Vaccination data for Malaysia
+838,NPPES,,Health,https://npiregistry.cms.hhs.gov/registry/help-api,"National Plan & Provider Enumeration System, info on healthcare providers registered in US"
+839,Nutritionix,apiKey,Health,https://developer.nutritionix.com/,Worlds largest verified nutrition database
+840,Open Data NHS Scotland,,Health,https://www.opendata.nhs.scot,Medical reference data and statistics by Public Health Scotland
+841,Open Disease,,Health,https://disease.sh/,API for Current cases and more stuff about COVID-19 and Influenza
+842,openFDA,apiKey,Health,https://open.fda.gov,"Public FDA data about drugs, devices and foods"
+843,Orion Health,OAuth,Health,https://developer.orionhealth.io/,Medical platform which allows the development of applications for different healthcare scenarios
+844,Quarantine,,Health,https://quarantine.country/coronavirus/api/,Coronavirus API with free COVID-19 live updates
+845,Adzuna,apiKey,Jobs,https://developer.adzuna.com/overview,Job board aggregator
+846,Arbeitnow,,Jobs,https://documenter.getpostman.com/view/18545278/UVJbJdKh,API for Job board aggregator in Europe / Remote
+847,Arbeitsamt,OAuth,Jobs,https://jobsuche.api.bund.dev/,"API for the ""Arbeitsamt"", which is a german Job board aggregator"
+848,Careerjet,apiKey,Jobs,https://www.careerjet.com/partners/api/,Job search engine
+849,DevITjobs UK,,Jobs,https://devitjobs.uk/job_feed.xml,Jobs with GraphQL
+850,Findwork,apiKey,Jobs,https://findwork.dev/developers/,Job board
+851,GraphQL Jobs,,Jobs,https://graphql.jobs/docs/api/,Jobs with GraphQL
+852,Jobs2Careers,apiKey,Jobs,http://api.jobs2careers.com/api/spec.pdf,Job aggregator
+853,Jooble,apiKey,Jobs,https://jooble.org/api/about,Job search engine
+854,Juju,apiKey,Jobs,http://www.juju.com/publisher/spec/,Job search engine
+855,Open Skills,,Jobs,https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview,"Job titles, skills and related jobs data"
+856,Reed,apiKey,Jobs,https://www.reed.co.uk/developers,Job board aggregator
+857,The Muse,apiKey,Jobs,https://www.themuse.com/developers/api/v2,Job board and company profiles
+858,Upwork,OAuth,Jobs,https://developers.upwork.com/,Freelance job board and management system
+859,USAJOBS,apiKey,Jobs,https://developer.usajobs.gov/,US government job board
+860,WhatJobs,apiKey,Jobs,https://www.whatjobs.com/affiliates,Job search engine
+861,ZipRecruiter,apiKey,Jobs,https://www.ziprecruiter.com/publishers,Job search app and website
+862,AI For Thai,apiKey,Machine Learning,https://aiforthai.in.th/index.php,Free Various Thai AI API
+863,Clarifai,OAuth,Machine Learning,https://docs.clarifai.com/api-guide/api-overview,Computer Vision
+864,Cloudmersive,apiKey,Machine Learning,https://www.cloudmersive.com/image-recognition-and-processing-api,"Image captioning, face recognition, NSFW classification"
+865,Deepcode,,Machine Learning,https://www.deepcode.ai,AI for code review
+866,Dialogflow,apiKey,Machine Learning,https://cloud.google.com/dialogflow/docs/,Natural Language Processing
+867,EXUDE-API,,Machine Learning,http://uttesh.com/exude-api/,"Used for the primary ways for filtering the stopping, stemming words from the text data"
+868,Hirak FaceAPI,apiKey,Machine Learning,https://faceapi.hirak.site/,"Face detection, face recognition with age estimation/gender estimation, accurate, no quota limits"
+869,Imagga,apiKey,Machine Learning,https://imagga.com/,"Image Recognition Solutions like Tagging, Visual Search, NSFW moderation"
+870,Inferdo,apiKey,Machine Learning,https://rapidapi.com/user/inferdo,"Computer Vision services like Facial detection, Image labeling, NSFW classification"
+871,IPS Online,apiKey,Machine Learning,https://docs.identity.ps/docs,Face and License Plate Anonymization
+872,Irisnet,apiKey,Machine Learning,https://irisnet.de/api/,Realtime content moderation API that blocks or blurs unwanted images in real-time
+873,Keen IO,apiKey,Machine Learning,https://keen.io/,Data Analytics
+874,Machinetutors,apiKey,Machine Learning,https://www.machinetutors.com/portfolio/MT_api.html,"AI Solutions: Video/Image Classification & Tagging, NSFW, Icon/Image/Audio Search, NLP"
+875,MessengerX.io,apiKey,Machine Learning,https://messengerx.rtfd.io,A FREE API for developers to build and monetize personalized ML based chat apps
+876,NLP Cloud,apiKey,Machine Learning,https://nlpcloud.io,"NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more"
+877,OpenVisionAPI,,Machine Learning,https://openvisionapi.com,Open source computer vision API based on open source models
+878,Perspective,apiKey,Machine Learning,https://perspectiveapi.com,"NLP API to return probability that if text is toxic, obscene, insulting or threatening"
+879,Roboflow Universe,apiKey,Machine Learning,https://universe.roboflow.com,Pre-trained computer vision models
+880,SkyBiometry,apiKey,Machine Learning,https://skybiometry.com/documentation/,"Face Detection, Face Recognition and Face Grouping"
+881,Time Door,apiKey,Machine Learning,https://timedoor.io,A time series analysis API
+882,Unplugg,apiKey,Machine Learning,https://unplu.gg/test_api.html,Forecasting API for timeseries data
+883,WolframAlpha,apiKey,Machine Learning,https://products.wolframalpha.com/api/,Provides specific answers to questions using data and algorithms
+884,7digital,OAuth,Music,https://docs.7digital.com/reference,Api of Music store 7digital
+885,AI Mastering,apiKey,Music,https://aimastering.com/api_docs/,Automated Music Mastering
+886,Audiomack,OAuth,Music,https://www.audiomack.com/data-api/docs,Api of the streaming music hub Audiomack
+887,Bandcamp,OAuth,Music,https://bandcamp.com/developer,API of Music store Bandcamp
+888,Bandsintown,,Music,https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0,Music Events
+889,Deezer,OAuth,Music,https://developers.deezer.com/api,Music
+890,Discogs,OAuth,Music,https://www.discogs.com/developers/,Music
+891,Freesound,apiKey,Music,https://freesound.org/docs/api/,Music Samples
+892,Gaana,,Music,https://github.com/cyberboysumanjay/GaanaAPI,API to retrieve song information from Gaana
+893,Genius,OAuth,Music,https://docs.genius.com/,Crowdsourced lyrics and music knowledge
+894,Genrenator,,Music,https://binaryjazz.us/genrenator-api/,Music genre generator
+895,iTunes Search,,Music,https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/,Software products
+896,Jamendo,OAuth,Music,https://developer.jamendo.com/v3.0/docs,Music
+897,JioSaavn,,Music,https://github.com/cyberboysumanjay/JioSaavnAPI,"API to retrieve song information, album meta data and many more from JioSaavn"
+898,KKBOX,OAuth,Music,https://developer.kkbox.com,"Get music libraries, playlists, charts, and perform out of KKBOX's platform"
+899,KSoft.Si Lyrics,apiKey,Music,https://docs.ksoft.si/api/lyrics-api,API to get lyrics for songs
+900,LastFm,apiKey,Music,https://www.last.fm/api,Music
+901,Lyrics.ovh,,Music,https://lyricsovh.docs.apiary.io,Simple API to retrieve the lyrics of a song
+902,Mixcloud,OAuth,Music,https://www.mixcloud.com/developers/,Music
+903,MusicBrainz,,Music,https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2,Music
+904,Musixmatch,apiKey,Music,https://developer.musixmatch.com/,Music
+905,Napster,apiKey,Music,https://developer.napster.com/api/v2.2,Music
+906,Openwhyd,,Music,https://openwhyd.github.io/openwhyd/API,"Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...)"
+907,Phishin,apiKey,Music,https://phish.in/api-docs,A web-based archive of legal live audio recordings of the improvisational rock band Phish
+908,Radio Browser,,Music,https://api.radio-browser.info/,List of internet radio stations
+909,Songkick,apiKey,Music,https://www.songkick.com/developer/,Music Events
+910,Songlink / Odesli,apiKey,Music,https://www.notion.so/API-d0ebe08a5e304a55928405eb682f6741,Get all the services on which a song is available
+911,Songsterr,,Music,https://www.songsterr.com/a/wa/api/,"Provides guitar, bass and drums tabs and chords"
+912,SoundCloud,OAuth,Music,https://developers.soundcloud.com/docs/api/guide,With SoundCloud API you can build applications that will give more power to control your content
+913,Spotify,OAuth,Music,https://beta.developer.spotify.com/documentation/web-api/,"View Spotify music catalog, manage users' libraries, get recommendations and more"
+914,TasteDive,apiKey,Music,https://tastedive.com/read/api,Similar artist API (also works for movies and TV shows)
+915,TheAudioDB,apiKey,Music,https://www.theaudiodb.com/api_guide.php,Music
+916,Vagalume,apiKey,Music,https://api.vagalume.com.br/docs/,Crowdsourced lyrics and music knowledge
+917,apilayer mediastack,apiKey,News,https://mediastack.com/,"Free, Simple REST API for Live News & Blog Articles"
+918,Associated Press,apiKey,News,https://developer.ap.org/,Search for news and metadata from Associated Press
+919,Chronicling America,,News,http://chroniclingamerica.loc.gov/about/api/,Provides access to millions of pages of historic US newspapers from the Library of Congress
+920,Currents,apiKey,News,https://currentsapi.services/,"Latest news published in various news sources, blogs and forums"
+921,Feedbin,OAuth,News,https://github.com/feedbin/feedbin-api,RSS reader
+922,GNews,apiKey,News,https://gnews.io/,Search for news from various sources
+923,Graphs for Coronavirus,,News,https://corona.dnsforfamily.com/api.txt,Each Country separately and Worldwide Graphs for Coronavirus. Daily updates
+924,Inshorts News,,News,https://github.com/cyberboysumanjay/Inshorts-News-API,Provides news from inshorts
+925,MarketAux,apiKey,News,https://www.marketaux.com/,Live stock market news with tagged tickers + sentiment and stats JSON API
+926,New York Times,apiKey,News,https://developer.nytimes.com/,The New York Times Developer Network
+927,News,apiKey,News,https://newsapi.org/,Headlines currently published on a range of news sources and blogs
+928,NewsData,apiKey,News,https://newsdata.io/docs,News data API for live-breaking news and headlines from reputed  news sources
+929,NewsX,apiKey,News,https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/,Get or Search Latest Breaking News with ML Powered Summaries 🤖
+930,NPR One,OAuth,News,http://dev.npr.org/api/,Personalized news listening experience from NPR
+931,Spaceflight News,,News,https://spaceflightnewsapi.net,Spaceflight related news 🚀
+932,The Guardian,apiKey,News,http://open-platform.theguardian.com/,"Access all the content the Guardian creates, categorised by tags and section"
+933,The Old Reader,apiKey,News,https://github.com/theoldreader/api,RSS reader
+934,TheNews,apiKey,News,https://www.thenewsapi.com/,"Aggregated headlines, top story and live news JSON API"
+935,Trove,apiKey,News,https://trove.nla.gov.au/about/create-something/using-api,Search through the National Library of Australia collection of 1000s of digitised newspapers
+936,18F,,Open Data,http://18f.github.io/API-All-the-X/,Unofficial US Federal Government API Development
+937,API Setu,,Open Data,https://www.apisetu.gov.in/,"An Indian Government platform that provides a lot of APIS for KYC, business, education & employment"
+938,Archive.org,,Open Data,https://archive.readme.io/docs,The Internet Archive
+939,Black History Facts,apiKey,Open Data,https://www.blackhistoryapi.io/docs,Contribute or search one of the largest black history fact databases on the web
+940,BotsArchive,,Open Data,https://botsarchive.com/docs.html,JSON formatted details about Telegram Bots available in database
+941,Callook.info,,Open Data,https://callook.info,United States ham radio callsigns
+942,CARTO,apiKey,Open Data,https://carto.com/,Location Information Prediction
+943,CollegeScoreCard.ed.gov,,Open Data,https://collegescorecard.ed.gov/data/,Data on higher education institutions in the United States
+944,Enigma Public,apiKey,Open Data,https://developers.enigma.com/docs,Broadest collection of public data
+945,French Address Search,,Open Data,https://geo.api.gouv.fr/adresse,Address search via the French Government
+946,GENESIS,OAuth,Open Data,https://www.destatis.de/EN/Service/OpenData/api-webservice.html,Federal Statistical Office Germany
+947,Joshua Project,apiKey,Open Data,https://api.joshuaproject.net/,People groups of the world with the fewest followers of Christ
+948,Kaggle,apiKey,Open Data,https://www.kaggle.com/docs/api,"Create and interact with Datasets, Notebooks, and connect with Kaggle"
+949,LinkPreview,apiKey,Open Data,https://www.linkpreview.net,"Get JSON formatted summary with title, description and preview image for any requested URL"
+950,Lowy Asia Power Index,,Open Data,https://github.com/0x0is1/lowy-index-api-docs,Get measure resources and influence to rank the relative power of states in Asia
+951,Microlink.io,,Open Data,https://microlink.io,Extract structured data from any website
+952,Nasdaq Data Link,apiKey,Open Data,https://docs.data.nasdaq.com/,Stock market data
+953,Nobel Prize,,Open Data,https://www.nobelprize.org/about/developer-zone-2/,Open data about nobel prizes and events
+954,Open Data Minneapolis,,Open Data,https://opendata.minneapolismn.gov/,Spatial (GIS) and non-spatial city data for Minneapolis
+955,openAFRICA,,Open Data,https://africaopendata.org/,Large datasets repository of African open data
+956,OpenCorporates,apiKey,Open Data,http://api.opencorporates.com/documentation/API-Reference,Data on corporate entities and directors in many countries
+957,OpenSanctions,,Open Data,https://www.opensanctions.org/docs/api/,"Data on international sanctions, crime and politically exposed persons"
+958,PeakMetrics,apiKey,Open Data,https://rapidapi.com/peakmetrics-peakmetrics-default/api/peakmetrics-news,News articles and public datasets
+959,Recreation Information Database,apiKey,Open Data,https://ridb.recreation.gov/,"Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US)"
+960,Scoop.it,apiKey,Open Data,http://www.scoop.it/dev,Content Curation Service
+961,Socrata,OAuth,Open Data,https://dev.socrata.com/,"Access to Open Data from Governments, Non-profits and NGOs around the world"
+962,Teleport,,Open Data,https://developers.teleport.org/,Quality of Life Data
+963,Umeå Open Data,,Open Data,https://opendata.umea.se/api/,Open data of the city Umeå in northen Sweden
+964,Universities List,,Open Data,https://github.com/Hipo/university-domains-list,"University names, countries and domains"
+965,University of Oslo,,Open Data,https://data.uio.no/,"Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)"
+966,UPC database,apiKey,Open Data,https://upcdatabase.org/api,More than 1.5 million barcode numbers from all around the world
+967,Urban Observatory,,Open Data,https://urbanobservatory.ac.uk,The largest set of publicly available real time urban data in the UK
+968,Wikidata,OAuth,Open Data,https://www.wikidata.org/w/api.php?action=help,Collaboratively edited knowledge base operated by the Wikimedia Foundation
+969,Wikipedia,,Open Data,https://www.mediawiki.org/wiki/API:Main_page,Mediawiki Encyclopedia
+970,Yelp,OAuth,Open Data,https://www.yelp.com/developers/documentation/v3,Find Local Business
+971,Countly,,Open Source Projects,https://api.count.ly/reference,Countly web analytics
+972,Creative Commons Catalog,OAuth,Open Source Projects,https://api.creativecommons.engineering/,Search among openly licensed and public domain works
+973,Datamuse,,Open Source Projects,https://www.datamuse.com/api/,Word-finding query engine
+974,Drupal.org,,Open Source Projects,https://www.drupal.org/drupalorg/docs/api,Drupal.org
+975,Evil Insult Generator,,Open Source Projects,https://evilinsult.com/api,Evil Insults
+976,GitHub Contribution Chart Generator,,Open Source Projects,https://github-contributions.vercel.app,Create an image of your GitHub contributions
+977,GitHub ReadMe Stats,,Open Source Projects,https://github.com/anuraghazra/github-readme-stats,Add dynamically generated statistics to your GitHub profile ReadMe
+978,Metabase,,Open Source Projects,https://www.metabase.com/,An open source Business Intelligence server to share data and analytics inside your company
+979,Shields,,Open Source Projects,https://shields.io/,"Concise, consistent, and legible badges in SVG and raster format"
+980,EPO,OAuth,Patent,https://developers.epo.org/,European patent search system api
+981,PatentsView ,,Patent,https://patentsview.org/apis/purpose,API is intended to explore and visualize trends/patterns across the US innovation landscape
+982,TIPO,apiKey,Patent,https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00,Taiwan patent search system api
+983,USPTO,,Patent,https://www.uspto.gov/learning-and-resources/open-data-and-mobility,USA patent api services
+984,Advice Slip,,Personality,http://api.adviceslip.com/,Generate random advice slips
+985,Biriyani As A Service,,Personality,https://biriyani.anoram.com/,Biriyani images placeholder
+986,Dev.to,apiKey,Personality,https://developers.forem.com/api,"Access Forem articles, users and other resources via API"
+987,Dictum,,Personality,https://github.com/fisenkodv/dictum,API to get access to the collection of the most inspiring expressions of mankind
+988,FavQs.com,apiKey,Personality,https://favqs.com/api,"FavQs allows you to collect, discover and share your favorite quotes"
+989,FOAAS,,Personality,http://www.foaas.com/,Fuck Off As A Service
+990,Forismatic,,Personality,http://forismatic.com/en/api/,Inspirational Quotes
+991,icanhazdadjoke,,Personality,https://icanhazdadjoke.com/api,The largest selection of dad jokes on the internet
+992,Inspiration,,Personality,https://inspiration.goprogram.ai/docs/,Motivational and Inspirational quotes
+993,kanye.rest,,Personality,https://kanye.rest,REST API for random Kanye West quotes
+994,kimiquotes,,Personality,https://kimiquotes.herokuapp.com/doc,Team radio and interview quotes by Finnish F1 legend Kimi Räikkönen
+995,Medium,OAuth,Personality,https://github.com/Medium/medium-api-docs,Community of readers and writers offering unique perspectives on ideas
+996,Programming Quotes,,Personality,https://github.com/skolakoda/programming-quotes-api,Programming Quotes API for open source projects
+997,Quotable Quotes,,Personality,https://github.com/lukePeavey/quotable,"Quotable is a free, open source quotations API"
+998,Quote Garden,,Personality,https://pprathameshmore.github.io/QuoteGarden/,REST API for more than 5000 famous quotes
+999,quoteclear,,Personality,https://quoteclear.web.app/,Ever-growing list of James Clear quotes from the 3-2-1 Newsletter
+1000,Quotes on Design,,Personality,https://quotesondesign.com/api/,Inspirational Quotes
+1001,Stoicism Quote,,Personality,https://github.com/tlcheah2/stoic-quote-lambda-public-api,Quotes about Stoicism
+1002,They Said So Quotes,,Personality,https://theysaidso.com/api/,Quotes Trusted by many fortune brands around the world
+1003,Traitify,,Personality,https://app.traitify.com/developer,"Assess, collect and analyze Personality"
+1004,Udemy(instructor),apiKey,Personality,https://www.udemy.com/developers/instructor/,API for instructors on Udemy
+1005,Vadivelu HTTP Codes,,Personality,https://vadivelu.anoram.com/,On demand HTTP Codes with images
+1006,Zen Quotes,,Personality,https://zenquotes.io/,Large collection of Zen quotes for inspiration
+1007,Abstract Phone Validation,apiKey,Phone,https://www.abstractapi.com/phone-validation-api,Validate phone numbers globally
+1008,apilayer numverify,apiKey,Phone,https://numverify.com,Phone number validation
+1009,Cloudmersive Validate,apiKey,Phone,https://cloudmersive.com/phone-number-validation-API,Validate international phone numbers
+1010,Phone Specification,,Phone,https://github.com/azharimm/phone-specs-api,Rest Api for Phone specifications
+1011,Veriphone,apiKey,Phone,https://veriphone.io,Phone number validation & carrier lookup
+1012,apilayer screenshotlayer,,Photography,https://screenshotlayer.com,URL 2 Image
+1013,APITemplate.io,apiKey,Photography,https://apitemplate.io,Dynamically generate images and PDFs from templates with a simple API
+1014,Bruzu,apiKey,Photography,https://docs.bruzu.com,Image generation with query string
+1015,CheetahO,apiKey,Photography,https://cheetaho.com/docs/getting-started/,Photo optimization and resize
+1016,Dagpi,apiKey,Photography,https://dagpi.xyz,Image manipulation and processing
+1017,Duply,apiKey,Photography,https://duply.co/docs#getting-started-api,"Generate, Edit, Scale and Manage Images and Videos Smarter & Faster"
+1018,DynaPictures,apiKey,Photography,https://dynapictures.com/docs/,Generate Hundreds of Personalized Images in Minutes
+1019,Flickr,OAuth,Photography,https://www.flickr.com/services/api/,Flickr Services
+1020,Getty Images,OAuth,Photography,http://developers.gettyimages.com/en/,Build applications using the world's most powerful imagery
+1021,Gfycat,OAuth,Photography,https://developers.gfycat.com/api/,Jiffier GIFs
+1022,Giphy,apiKey,Photography,https://developers.giphy.com/docs/,Get all your gifs
+1023,Google Photos,OAuth,Photography,https://developers.google.com/photos,Integrate Google Photos with your apps or devices
+1024,Imgur,OAuth,Photography,https://apidocs.imgur.com/,Images
+1025,Imsea,,Photography,https://imsea.herokuapp.com/,Free image search
+1026,Lorem Picsum,,Photography,https://picsum.photos/,Images from Unsplash
+1027,ObjectCut,apiKey,Photography,https://objectcut.com/,Image Background removal
+1028,Pexels,apiKey,Photography,https://www.pexels.com/api/,Free Stock Photos and Videos
+1029,PhotoRoom,apiKey,Photography,https://www.photoroom.com/api/,Remove background from images
+1030,Pixabay,apiKey,Photography,https://pixabay.com/sk/service/about/api/,Photography
+1031,PlaceKeanu,,Photography,https://placekeanu.com/,Resizable Keanu Reeves placeholder images with grayscale and young Keanu options
+1032,Readme typing SVG,,Photography,https://github.com/DenverCoder1/readme-typing-svg,Customizable typing and deleting text SVG
+1033,Remove.bg,apiKey,Photography,https://www.remove.bg/api,Image Background removal
+1034,ReSmush.it,,Photography,https://resmush.it/api,Photo optimization
+1035,shutterstock,OAuth,Photography,https://api-reference.shutterstock.com/,Stock Photos and Videos
+1036,Sirv,apiKey,Photography,https://apidocs.sirv.com/,"Image management solutions like optimization, manipulation, hosting"
+1037,Unsplash,OAuth,Photography,https://unsplash.com/developers,Photography
+1038,Wallhaven,apiKey,Photography,https://wallhaven.cc/help/api,Wallpapers
+1039,Webdam,OAuth,Photography,https://www.damsuccess.com/hc/en-us/articles/202134055-REST-API,Images
+1040,Codeforces,apiKey,Programming,https://codeforces.com/apiHelp,Get access to Codeforces data
+1041,Hackerearth,apiKey,Programming,https://www.hackerearth.com/docs/wiki/developers/v4/,For compiling and running code in several languages
+1042,Judge0 CE,apiKey,Programming,https://ce.judge0.com/,Online code execution system
+1043,KONTESTS,,Programming,https://kontests.net/api,For upcoming and ongoing competitive coding contests
+1044,Mintlify,apiKey,Programming,https://docs.mintlify.com,For programmatically generating documentation for code
+1045,arcsecond.io,,Science & Math,https://api.arcsecond.io/,Multiple astronomy data sources
+1046,arXiv,,Science & Math,https://arxiv.org/help/api/user-manual,"Curated research-sharing platform: physics, mathematics, quantitative finance, and economics"
+1047,CORE,apiKey,Science & Math,https://core.ac.uk/services#api,Access the world's Open Access research papers
+1048,GBIF,,Science & Math,https://www.gbif.org/developer/summary,Global Biodiversity Information Facility
+1049,iDigBio,,Science & Math,https://github.com/idigbio/idigbio-search-api/wiki,Access millions of museum specimens from organizations around the world
+1050,inspirehep.net,,Science & Math,https://github.com/inspirehep/rest-api-doc,High Energy Physics info. system
+1051,isEven (humor),,Science & Math,https://isevenapi.xyz/,Check if a number is even
+1052,ISRO,,Science & Math,https://isro.vercel.app,ISRO Space Crafts Information
+1053,ITIS,,Science & Math,https://www.itis.gov/ws_description.html,Integrated Taxonomic Information System
+1054,Launch Library 2,,Science & Math,https://thespacedevs.com/llapi,Spaceflight launches and events database
+1055,Materials Platform for Data Science,apiKey,Science & Math,https://mpds.io,Curated experimental data for materials science
+1056,Minor Planet Center,,Science & Math,http://www.asterank.com/mpc,Asterank.com Information
+1057,NASA,,Science & Math,https://api.nasa.gov,"NASA data, including imagery"
+1058,NASA ADS,OAuth,Science & Math,https://ui.adsabs.harvard.edu/help/api/api-docs.html,NASA Astrophysics Data System
+1059,Newton,,Science & Math,https://newton.vercel.app,Symbolic and Arithmetic Math Calculator
+1060,Noctua,,Science & Math,https://api.noctuasky.com/api/v1/swaggerdoc/,REST API used to access NoctuaSky features
+1061,Numbers,apiKey,Science & Math,https://math.tools/api/numbers/,"Number of the day, random number, number facts and anything else you want to do with numbers"
+1062,Numbers,,Science & Math,http://numbersapi.com,Facts about numbers
+1063,Ocean Facts,,Science & Math,https://oceanfacts.herokuapp.com/,Facts pertaining to the physical science of Oceanography
+1064,Open Notify,,Science & Math,http://open-notify.org/Open-Notify-API/,"ISS astronauts, current location, etc"
+1065,Open Science Framework,,Science & Math,https://developer.osf.io,"Repository and archive for study designs, research materials, data, manuscripts, etc"
+1066,Purple Air,,Science & Math,https://www2.purpleair.com/,Real Time Air Quality Monitoring
+1067,Remote Calc,,Science & Math,https://github.com/elizabethadegbaju/remotecalc,Decodes base64 encoding and parses it to return a solution to the calculation in JSON
+1068,SHARE,,Science & Math,https://share.osf.io/api/v2/,"A free, open, dataset about research and scholarly activities"
+1069,SpaceX,,Science & Math,https://github.com/r-spacex/SpaceX-API,"Company, vehicle, launchpad and launch data"
+1070,SpaceX,,Science & Math,https://api.spacex.land/graphql/,"GraphQL, Company, Ships, launchpad and launch data"
+1071,Sunrise and Sunset,,Science & Math,https://sunrise-sunset.org/api,Sunset and sunrise times for a given latitude and longitude
+1072,Times Adder,,Science & Math,https://github.com/FranP-code/API-Times-Adder,With this API you can add each of the times introduced in the array sended
+1073,TLE,,Science & Math,https://tle.ivanstanojevic.me/#/docs,Satellite information
+1074,USGS Earthquake Hazards Program,,Science & Math,https://earthquake.usgs.gov/fdsnws/event/1/,Earthquakes data real-time
+1075,USGS Water Services,,Science & Math,https://waterservices.usgs.gov/,Water quality and level info for rivers and lakes
+1076,World Bank,,Science & Math,https://datahelpdesk.worldbank.org/knowledgebase/topics/125589,World Data
+1077,xMath,,Science & Math,https://x-math.herokuapp.com/,Random mathematical expressions
+1078,Application Environment Verification,apiKey,Security,https://github.com/fingerprintjs/aev,"Android library and API to verify the safety of user devices, detect rooted devices and other risks"
+1079,BinaryEdge,apiKey,Security,https://docs.binaryedge.io/api-v2.html,Provide access to BinaryEdge 40fy scanning platform
+1080,BitWarden,OAuth,Security,https://bitwarden.com/help/api/,Best open-source password manager
+1081,Botd,apiKey,Security,https://github.com/fingerprintjs/botd,Botd is a browser library for JavaScript bot detection
+1082,Bugcrowd,apiKey,Security,https://docs.bugcrowd.com/api/getting-started/,Bugcrowd API for interacting and tracking the reported issues programmatically
+1083,Censys,apiKey,Security,https://search.censys.io/api,Search engine for Internet connected host and devices
+1084,Classify,,Security,https://classify-web.herokuapp.com/#/api,Encrypting & decrypting text messages
+1085,Complete Criminal Checks,apiKey,Security,https://completecriminalchecks.com/Developers,Provides data of offenders from all U.S. States and Pureto Rico
+1086,CRXcavator,apiKey,Security,https://crxcavator.io/apidocs,Chrome extension risk scoring
+1087,Dehash.lt,,Security,https://github.com/Dehash-lt/api,"Hash decryption MD5, SHA1, SHA3, SHA256, SHA384, SHA512"
+1088,EmailRep,,Security,https://docs.emailrep.io/,Email address threat and risk prediction
+1089,Escape,,Security,https://github.com/polarspetroll/EscapeAPI,An API for escaping different kind of queries
+1090,FilterLists,,Security,https://filterlists.com,Lists of filters for adblockers and firewalls
+1091,FingerprintJS Pro,apiKey,Security,https://dev.fingerprintjs.com/docs,Fraud detection API offering highly accurate browser fingerprinting
+1092,FraudLabs Pro,apiKey,Security,https://www.fraudlabspro.com/developer/api/screen-order,Screen order information using AI to detect frauds
+1093,FullHunt,apiKey,Security,https://api-docs.fullhunt.io/#introduction,Searchable attack surface database of the entire internet
+1094,GitGuardian,apiKey,Security,https://api.gitguardian.com/doc,"Scan files for secrets (API Keys, database credentials)"
+1095,GreyNoise,apiKey,Security,https://docs.greynoise.io/reference/get_v3-community-ip,Query IPs in the GreyNoise dataset and retrieve a subset of the full IP context data
+1096,HackerOne,apiKey,Security,https://api.hackerone.com/,The industry’s first hacker API that helps increase productivity towards creative bug bounty hunting
+1097,Hashable,,Security,https://hashable.space/pages/api/,A REST API to access high level cryptographic functions and methods
+1098,HaveIBeenPwned,apiKey,Security,https://haveibeenpwned.com/API/v3,Passwords which have previously been exposed in data breaches
+1099,Intelligence X,apiKey,Security,https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf,Perform OSINT via Intelligence X
+1100,LoginRadius,apiKey,Security,https://www.loginradius.com/docs/,Managed User Authentication Service
+1101,Microsoft Security Response Center (MSRC),,Security,https://msrc.microsoft.com/report/developer,Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC)
+1102,Mozilla http scanner,,Security,https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md,Mozilla observatory http scanner
+1103,Mozilla tls scanner,,Security,https://github.com/mozilla/tls-observatory#api-endpoints,Mozilla observatory tls scanner
+1104,National Vulnerability Database,,Security,https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog,U.S. National Vulnerability Database
+1105,Passwordinator,,Security,https://github.com/fawazsullia/password-generator/,Generate random passwords of varying complexities
+1106,PhishStats,,Security,https://phishstats.info/,Phishing database
+1107,Privacy.com,apiKey,Security,https://privacy.com/developer/docs,Generate merchant-specific and one-time use credit card numbers that link back to your bank
+1108,Pulsedive,apiKey,Security,https://pulsedive.com/api/,"Scan, search and collect threat intelligence data in real-time"
+1109,SecurityTrails,apiKey,Security,https://securitytrails.com/corp/apidocs,Domain and IP related information such as current and historical WHOIS and DNS records
+1110,Shodan,apiKey,Security,https://developer.shodan.io/,Search engine for Internet connected devices
+1111,Spyse,apiKey,Security,https://spyse-dev.readme.io/reference/quick-start,Access data on all Internet assets and build powerful attack surface management applications
+1112,Threat Jammer,apiKey,Security,https://threatjammer.com/docs/index,Risk scoring service from curated threat intelligence data
+1113,UK Police,,Security,https://data.police.uk/docs/,UK Police data
+1114,Virushee,,Security,https://api.virushee.com/,Virushee file/data scanning
+1115,VulDB,apiKey,Security,https://vuldb.com/?doc.api,VulDB API allows to initiate queries for one or more items along with transactional bots
+1116,Best Buy,apiKey,Shopping,https://bestbuyapis.github.io/api-documentation/#overview,"Products, Buying Options, Categories, Recommendations, Stores and Commerce"
+1117,Digi-Key,OAuth,Shopping,https://www.digikey.com/en/resources/api-solutions,Retrieve price and inventory of electronic components as well as place orders
+1118,Dummy Products,apiKey,Shopping,https://dummyproducts-api.herokuapp.com/,An api to fetch dummy e-commerce products JSON data with placeholder images
+1119,eBay,OAuth,Shopping,https://developer.ebay.com/,Sell and Buy on eBay
+1120,Etsy,OAuth,Shopping,https://www.etsy.com/developers/documentation/getting_started/api_basics,Manage shop and interact with listings
+1121,Flipkart Marketplace,OAuth,Shopping,https://seller.flipkart.com/api-docs/FMSAPI.html,"Product listing management, Order Fulfilment in the Flipkart Marketplace"
+1122,Lazada,apiKey,Shopping,https://open.lazada.com/doc/doc.htm,Retrieve product ratings and seller performance metrics
+1123,Mercadolibre,apiKey,Shopping,https://developers.mercadolibre.cl/es_ar/api-docs-es,"Manage sales, ads, products, services and Shops"
+1124,Octopart,apiKey,Shopping,https://octopart.com/api/v4/reference,"Electronic part data for manufacturing, design, and sourcing"
+1125,OLX Poland,apiKey,Shopping,https://developer.olx.pl/api/doc#section/,"Integrate with local sites by posting, managing adverts and communicating with OLX users"
+1126,Rappi,OAuth,Shopping,https://dev-portal.rappi.com/,Manage orders from Rappi's app
+1127,Shopee,apiKey,Shopping,https://open.shopee.com/documents?version=1,Shopee's official API for integration of various services from Shopee
+1128,Tokopedia,OAuth,Shopping,https://developer.tokopedia.com/openapi/guide/#/,Tokopedia's Official API for integration of various services from Tokopedia
+1129,WooCommerce,apiKey,Shopping,https://woocommerce.github.io/woocommerce-rest-api-docs/,"WooCommerce REST APIS to create, read, update, and delete data on wordpress website in JSON format"
+1130,4chan,,Social,https://github.com/4chan/4chan-API,Simple image-based bulletin board dedicated to a variety of topics
+1131,Ayrshare,apiKey,Social,https://www.ayrshare.com,"Social media APIs to post, get analytics, and manage multiple users social media accounts"
+1132,aztro,,Social,https://aztro.sameerkumar.website/,"Daily horoscope info for yesterday, today, and tomorrow"
+1133,Blogger,OAuth,Social,https://developers.google.com/blogger/,The Blogger APIs allows client applications to view and update Blogger content
+1134,Cisco Spark,OAuth,Social,https://developer.ciscospark.com,Team Collaboration Software
+1135,Dangerous Discord Database,apiKey,Social,https://discord.riverside.rocks/docs/index.php,Database of malicious Discord accounts
+1136,Discord,OAuth,Social,https://discord.com/developers/docs/intro,"Make bots for Discord, integrate Discord onto an external platform"
+1137,Disqus,OAuth,Social,https://disqus.com/api/docs/auth/,Communicate with Disqus data
+1138,Doge-Meme,,Social,https://api.doge-meme.lol/docs,Top meme posts from r/dogecoin which include 'Meme' flair
+1139,Facebook,OAuth,Social,https://developers.facebook.com/,"Facebook Login, Share on FB, Social Plugins, Analytics and more"
+1140,Foursquare,OAuth,Social,https://developer.foursquare.com/,"Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc)"
+1141,Fuck Off as a Service,,Social,https://www.foaas.com,Asks someone to fuck off
+1142,Full Contact,OAuth,Social,https://docs.fullcontact.com/,Get Social Media profiles and contact Information
+1143,HackerNews,,Social,https://github.com/HackerNews/API,Social news for CS and entrepreneurship
+1144,Hashnode,,Social,https://hashnode.com,A blogging platform built for developers
+1145,Instagram,OAuth,Social,https://www.instagram.com/developer/,"Instagram Login, Share on Instagram, Social Plugins and more"
+1146,Kakao,OAuth,Social,https://developers.kakao.com/,"Kakao Login, Share on KakaoTalk, Social Plugins and more"
+1147,Lanyard,,Social,https://github.com/Phineas/lanyard,Retrieve your presence on Discord through an HTTP REST API or WebSocket
+1148,Line,OAuth,Social,https://developers.line.biz/,"Line Login, Share on Line, Social Plugins and more"
+1149,LinkedIn,OAuth,Social,https://docs.microsoft.com/en-us/linkedin/?context=linkedin/context,The foundation of all digital integrations with LinkedIn
+1150,Meetup.com,apiKey,Social,https://www.meetup.com/api/guide,Data about Meetups from Meetup.com
+1151,Microsoft Graph,OAuth,Social,https://docs.microsoft.com/en-us/graph/api/overview,"Access the data and intelligence in Microsoft 365, Windows 10, and Enterprise Mobility"
+1152,NAVER,OAuth,Social,https://developers.naver.com/main/,"NAVER Login, Share on NAVER, Social Plugins and more"
+1153,Open Collective,,Social,https://docs.opencollective.com/help/developers/api,Get Open Collective data
+1154,Pinterest,OAuth,Social,https://developers.pinterest.com/,The world's catalog of ideas
+1155,Product Hunt,OAuth,Social,https://api.producthunt.com/v2/docs,The best new products in tech
+1156,Reddit,OAuth,Social,https://www.reddit.com/dev/api,Homepage of the internet
+1157,Revolt,apiKey,Social,https://developers.revolt.chat/api/,Revolt open source Discord alternative
+1158,Saidit,OAuth,Social,https://www.saidit.net/dev/api,Open Source Reddit Clone
+1159,Slack,OAuth,Social,https://api.slack.com/,Team Instant Messaging
+1160,TamTam,apiKey,Social,https://dev.tamtam.chat/,Bot API to interact with TamTam
+1161,Telegram Bot,apiKey,Social,https://core.telegram.org/bots/api,Simplified HTTP version of the MTProto API for bots
+1162,Telegram MTProto,OAuth,Social,https://core.telegram.org/api#getting-started,Read and write Telegram data
+1163,Telegraph,apiKey,Social,https://telegra.ph/api,"Create attractive blogs easily, to share"
+1164,TikTok,OAuth,Social,https://developers.tiktok.com/doc/login-kit-web,Fetches user info and user's video posts on TikTok platform
+1165,Trash Nothing,OAuth,Social,https://trashnothing.com/developer,A freecycling community with thousands of free items posted every day
+1166,Tumblr,OAuth,Social,https://www.tumblr.com/docs/en/api/v2,Read and write Tumblr Data
+1167,Twitch,OAuth,Social,https://dev.twitch.tv/docs,Game Streaming API
+1168,Twitter,OAuth,Social,https://developer.twitter.com/en/docs,Read and write Twitter data
+1169,vk,OAuth,Social,https://vk.com/dev/sites,Read and write vk data
+1170,API-FOOTBALL,apiKey,Sports & Fitness,https://www.api-football.com/documentation-v3,Get information about Football Leagues & Cups
+1171,ApiMedic,apiKey,Sports & Fitness,https://apimedic.com/,ApiMedic offers a medical symptom checker API primarily for patients
+1172,balldontlie,,Sports & Fitness,https://www.balldontlie.io,Balldontlie provides access to stats data from the NBA
+1173,Canadian Football League (CFL),apiKey,Sports & Fitness,http://api.cfl.ca/,"Official JSON API providing real-time league, team and player statistics about the CFL"
+1174,City Bikes,,Sports & Fitness,https://api.citybik.es/v2/,City Bikes around the world
+1175,Cloudbet,apiKey,Sports & Fitness,https://www.cloudbet.com/api/,Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically
+1176,CollegeFootballData.com,apiKey,Sports & Fitness,https://collegefootballdata.com,"Unofficial detailed American college football statistics, records, and results API"
+1177,Ergast F1,,Sports & Fitness,http://ergast.com/mrd/,F1 data from the beginning of the world championships in 1950
+1178,Fitbit,OAuth,Sports & Fitness,https://dev.fitbit.com/,Fitbit Information
+1179,Football,X-Mashape-Key,Sports & Fitness,https://rapidapi.com/GiulianoCrescimbeni/api/football98/,"A simple Open Source Football API to get squads’ stats, best scorers and more"
+1180,Football (Soccer) Videos,,Sports & Fitness,https://www.scorebat.com/video-api/,"Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more"
+1181,Football Standings,,Sports & Fitness,https://github.com/azharimm/football-standings-api,"Display football standings e.g epl, la liga, serie a etc. The data is based on espn site"
+1182,Football-Data,X-Mashape-Key,Sports & Fitness,https://www.football-data.org,"Football data with matches info, players, teams, and competitions"
+1183,JCDecaux Bike,apiKey,Sports & Fitness,https://developer.jcdecaux.com/,JCDecaux's self-service bicycles
+1184,MLB Records and Stats,,Sports & Fitness,https://appac.github.io/mlb-data-api-docs/,Current and historical MLB statistics
+1185,NBA Data,apiKey,Sports & Fitness,https://rapidapi.com/api-sports/api/api-nba/,"All NBA Stats DATA, Games, Livescore, Standings, Statistics"
+1186,NBA Stats,,Sports & Fitness,https://any-api.com/nba_com/nba_com/docs/API_Description,Current and historical NBA Statistics
+1187,NHL Records and Stats,,Sports & Fitness,https://gitlab.com/dword4/nhlapi,NHL historical data and statistics
+1188,Oddsmagnet,,Sports & Fitness,https://data.oddsmagnet.com,Odds history from multiple UK bookmakers
+1189,OpenLigaDB,,Sports & Fitness,https://www.openligadb.de,Crowd sourced sports league results
+1190,Premier League Standings ,apiKey,Sports & Fitness,https://rapidapi.com/heisenbug/api/premier-league-live-scores/,All Current Premier League Standings and Statistics
+1191,Sport Data,apiKey,Sports & Fitness,https://sportdataapi.com,Get sports data from all over the world
+1192,Sport List & Data,,Sports & Fitness,https://developers.decathlon.com/products/sports,List of and resources related to sports
+1193,Sport Places,,Sports & Fitness,https://developers.decathlon.com/products/sport-places,Crowd-source sports places around the world
+1194,Sport Vision,apiKey,Sports & Fitness,https://developers.decathlon.com/products/sport-vision,"Identify sport, brands and gear in an image. Also does image sports captioning"
+1195,Sportmonks Cricket,apiKey,Sports & Fitness,https://docs.sportmonks.com/cricket/,"Live cricket score, player statistics and fantasy API"
+1196,Sportmonks Football,apiKey,Sports & Fitness,https://docs.sportmonks.com/football/,"Football score/schedule, news api, tv channels, stats, history, display standing e.g. epl, la liga"
+1197,Squiggle,,Sports & Fitness,https://api.squiggle.com.au,"Fixtures, results and predictions for Australian Football League matches"
+1198,Strava,OAuth,Sports & Fitness,https://strava.github.io/api/,"Connect with athletes, activities and more"
+1199,SuredBits,,Sports & Fitness,https://suredbits.com/api/,"Query sports data, including teams, players, games, scores and statistics"
+1200,TheSportsDB,apiKey,Sports & Fitness,https://www.thesportsdb.com/api.php,Crowd-Sourced Sports Data and Artwork
+1201,Tredict,OAuth,Sports & Fitness,https://www.tredict.com/blog/oauth_docs/,"Get and set activities, health data and more"
+1202,Wger,apiKey,Sports & Fitness,https://wger.de/en/software/api,"Workout manager data as exercises, muscles or equipment"
+1203,Bacon Ipsum,,Test Data,https://baconipsum.com/json-api/,A Meatier Lorem Ipsum Generator
+1204,Dicebear Avatars,,Test Data,https://avatars.dicebear.com/,Generate random pixel-art avatars
+1205,English Random Words,,Test Data,https://random-words-api.vercel.app/word,Generate English Random Words with Pronunciation
+1206,FakeJSON,apiKey,Test Data,https://fakejson.com,Service to generate test and fake data
+1207,FakerAPI,,Test Data,https://fakerapi.it/en,APIs collection to get fake data
+1208,FakeStoreAPI,,Test Data,https://fakestoreapi.com/,Fake store rest API for your e-commerce or shopping website prototype
+1209,GeneradorDNI,apiKey,Test Data,https://api.generadordni.es,"Data generator API. Profiles, vehicles, banks and cards, etc"
+1210,ItsThisForThat,,Test Data,https://itsthisforthat.com/api.php,Generate Random startup ideas
+1211,JSONPlaceholder,,Test Data,http://jsonplaceholder.typicode.com/,Fake data for testing and prototyping
+1212,Loripsum,,Test Data,http://loripsum.net/,"The ""lorem ipsum"" generator that doesn't suck"
+1213,Mailsac,apiKey,Test Data,https://mailsac.com/docs/api,Disposable Email
+1214,Metaphorsum,,Test Data,http://metaphorpsum.com/,Generate demo paragraphs giving number of words and sentences
+1215,Mockaroo,apiKey,Test Data,https://www.mockaroo.com/docs,"Generate fake data to JSON, CSV, TXT, SQL and XML"
+1216,QuickMocker,,Test Data,https://quickmocker.com,"API mocking tool to generate contextual, fake or random data"
+1217,Random Data,,Test Data,https://random-data-api.com,Random data generator
+1218,Randommer,apiKey,Test Data,https://randommer.io/randommer-api,Random data generator
+1219,RandomUser,,Test Data,https://randomuser.me,Generates and list user data
+1220,RoboHash,,Test Data,https://robohash.org/,Generate random robot/alien avatars
+1221,Spanish random names,,Test Data,https://random-names-api.herokuapp.com/public,Generate spanish names (with gender) randomly
+1222,Spanish random words,,Test Data,https://palabras-aleatorias-public-api.herokuapp.com,Generate spanish words randomly
+1223,This Person Does not Exist,,Test Data,https://thispersondoesnotexist.com,Generates real-life faces of people who do not exist
+1224,Toolcarton,,Test Data,https://testimonialapi.toolcarton.com/,Generate random testimonial data
+1225,UUID Generator,,Test Data,https://www.uuidtools.com/docs,Generate UUIDs
+1226,What The Commit,,Test Data,http://whatthecommit.com/index.txt,Random commit message generator
+1227,Yes No,,Test Data,https://yesno.wtf/api,Generate yes or no randomly
+1228,Code Detection API,OAuth,Text Analysis,https://codedetectionapi.runtime.dev,"Detect, label, format and enrich the code in your app or in your data pipeline"
+1229,apilayer languagelayer,OAuth,Text Analysis,https://languagelayer.com/,Language Detection JSON API supporting 173 languages
+1230,Aylien Text Analysis,apiKey,Text Analysis,https://docs.aylien.com/textapi/#getting-started,A collection of information retrieval and natural language APIs
+1231,Cloudmersive Natural Language Processing,apiKey,Text Analysis,https://www.cloudmersive.com/nlp-api,Natural language processing and text analysis
+1232,Detect Language,apiKey,Text Analysis,https://detectlanguage.com/,Detects text language
+1233,ELI,apiKey,Text Analysis,https://nlp.insightera.co.th/docs/v1.0,Natural Language Processing Tools for Thai Language
+1234,Google Cloud Natural,apiKey,Text Analysis,https://cloud.google.com/natural-language/docs/,"Natural language understanding technology, including sentiment, entity and syntax analysis"
+1235,Hirak OCR,apiKey,Text Analysis,https://ocr.hirak.site/,"Image to text -text recognition- from image more than 100 language, accurate, unlimited requests"
+1236,Hirak Translation,apiKey,Text Analysis,https://translate.hirak.site/,"Translate between 21 of most used languages, accurate, unlimited requests"
+1237,Lecto Translation,apiKey,Text Analysis,https://rapidapi.com/lecto-lecto-default/api/lecto-translation/,Translation API with free tier and reasonable prices
+1238,LibreTranslate,,Text Analysis,https://libretranslate.com/docs,Translation tool with 17 available languages
+1239,Semantria,OAuth,Text Analysis,https://semantria.readme.io/docs,"Text Analytics with sentiment analysis, categorization & named entity extraction"
+1240,Sentiment Analysis,apiKey,Text Analysis,https://www.meaningcloud.com/developer/sentiment-analysis,Multilingual sentiment analysis of texts from different sources
+1241,Tisane,OAuth,Text Analysis,https://tisane.ai/,Text Analytics with focus on detection of abusive content and law enforcement applications
+1242,Watson Natural Language Understanding,OAuth,Text Analysis,https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding,Natural language processing for advanced text analysis
+1243,Aftership,apiKey,Tracking,https://developers.aftership.com/reference/quick-start,"API to update, manage and track shipment efficiently"
+1244,Correios,apiKey,Tracking,https://cws.correios.com.br/ajuda,Integration to provide information and prepare shipments using Correio's services
+1245,Pixela,X-Mashape-Key,Tracking,https://pixe.la,"API for recording and tracking habits or effort, routines"
+1246,PostalPinCode,,Tracking,http://www.postalpincode.in/Api-Details,API for getting Pincode details in India
+1247,Postmon,,Tracking,http://postmon.com.br,"An API to query Brazilian ZIP codes and orders easily, quickly and free"
+1248,PostNord,apiKey,Tracking,https://developer.postnord.com/api,Provides information about parcels in transport for Sweden and Denmark
+1249,UPS,apiKey,Tracking,https://www.ups.com/upsdeveloperkit,Shipment and Address information
+1250,WeCanTrack,apiKey,Tracking,https://docs.wecantrack.com,Automatically place subids in affiliate links to attribute affiliate conversions to click data
+1251,WhatPulse,,Tracking,https://developer.whatpulse.org/#web-api,Small application that measures your keyboard/mouse usage
+1252,ADS-B Exchange,,Transportation,https://www.adsbexchange.com/data/,Access real-time and historical data of any and all airborne aircraft
+1253,airportsapi,,Transportation,https://airport-web.appspot.com/api/docs/,Get name and website-URL for airports by ICAO code
+1254,AIS Hub,apiKey,Transportation,http://www.aishub.net/api,Real-time data of any marine and inland vessel equipped with AIS tracking system
+1255,Amadeus for Developers,OAuth,Transportation,https://developers.amadeus.com/self-service,Travel Search - Limited usage
+1256,apilayer aviationstack,OAuth,Transportation,https://aviationstack.com/,Real-time Flight Status & Global Aviation Data API
+1257,AviationAPI,,Transportation,https://docs.aviationapi.com,"FAA Aeronautical Charts and Publications, Airport Information, and Airport Weather"
+1258,AZ511,apiKey,Transportation,https://www.az511.com/developers/doc,Access traffic data from the ADOT API
+1259,Bay Area Rapid Transit,apiKey,Transportation,http://api.bart.gov,Stations and predicted arrivals for BART
+1260,BC Ferries,,Transportation,https://www.bcferriesapi.ca,Sailing times and capacities for BC Ferries
+1261,BIC-Boxtech,OAuth,Transportation,https://docs.bic-boxtech.org/,Container technical detail for the global container fleet
+1262,BlaBlaCar,apiKey,Transportation,https://dev.blablacar.com,Search car sharing trips
+1263,Boston MBTA Transit,apiKey,Transportation,https://www.mbta.com/developers/v3-api,Stations and predicted arrivals for MBTA
+1264,Community Transit,,Transportation,https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints,Transitland API
+1265,Compare Flight Prices,apiKey,Transportation,https://rapidapi.com/obryan-software-obryan-software-default/api/compare-flight-prices/,API for comparing flight prices across platforms
+1266,CTS,apiKey,Transportation,https://api.cts-strasbourg.eu/,CTS Realtime API
+1267,Grab,OAuth,Transportation,https://developer.grab.com/docs/,"Track deliveries, ride fares, payments and loyalty points"
+1268,GraphHopper,apiKey,Transportation,https://docs.graphhopper.com/,A-to-B routing with turn-by-turn instructions
+1269,Icelandic APIs,,Transportation,http://docs.apis.is/,Open APIs that deliver services in or regarding Iceland
+1270,Impala Hotel Bookings,apiKey,Transportation,https://docs.impala.travel/docs/booking-api/,"Hotel content, rates and room bookings"
+1271,Izi,apiKey,Transportation,http://api-docs.izi.travel/,Audio guide for travellers
+1272,"Land Transport Authority DataMall, Singapore",apiKey,Transportation,https://datamall.lta.gov.sg/content/dam/datamall/datasets/LTA_DataMall_API_User_Guide.pdf,Singapore transport information
+1273,Metro Lisboa,,Transportation,http://app.metrolisboa.pt/status/getLinhas.php,Delays in subway lines
+1274,Navitia,apiKey,Transportation,https://doc.navitia.io/,The open API for building cool stuff with transport data
+1275,Open Charge Map,apiKey,Transportation,https://openchargemap.org/site/develop/api,Global public registry of electric vehicle charging locations
+1276,OpenSky Network,,Transportation,https://opensky-network.org/apidoc/index.html,Free real-time ADS-B aviation data
+1277,Railway Transport for France,apiKey,Transportation,https://www.digital.sncf.com/startup/api,SNCF public API
+1278,REFUGE Restrooms,,Transportation,https://www.refugerestrooms.org/api/docs/#!/restrooms,"Provides safe restroom access for transgender, intersex and gender nonconforming individuals"
+1279,Sabre for Developers,apiKey,Transportation,https://developer.sabre.com/guides/travel-agency/quickstart/getting-started-in-travel,Travel Search - Limited usage
+1280,Schiphol Airport,apiKey,Transportation,https://developer.schiphol.nl/,Schiphol
+1281,Tankerkoenig,apiKey,Transportation,https://creativecommons.tankerkoenig.de/swagger/,German realtime gas/diesel prices
+1282,TransitLand,,Transportation,https://www.transit.land/documentation/datastore/api-endpoints.html,Transit Aggregation
+1283,"Transport for Atlanta, US",,Transportation,http://www.itsmarta.com/app-developer-resources.aspx,Marta
+1284,"Transport for Auckland, New Zealand",,Transportation,https://dev-portal.at.govt.nz/,Auckland Transport
+1285,Transport for Belgium,,Transportation,https://docs.irail.be/,The iRail API is a third-party API for Belgian public transport by train
+1286,"Transport for Berlin, Germany",,Transportation,https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md,Third-party VBB API
+1287,"Transport for Bordeaux, France",apiKey,Transportation,https://opendata.bordeaux-metropole.fr/explore/,Bordeaux Métropole public transport and more (France)
+1288,"Transport for Budapest, Hungary",,Transportation,https://bkkfutar.docs.apiary.io,Budapest public transport API
+1289,"Transport for Chicago, US",apiKey,Transportation,http://www.transitchicago.com/developers/,Chicago Transit Authority (CTA)
+1290,Transport for Czech Republic,,Transportation,https://www.chaps.cz/eng/products/idos-internet,Czech transport API
+1291,"Transport for Denver, US",,Transportation,http://www.rtd-denver.com/gtfs-developer-guide.shtml,RTD
+1292,Transport for Finland,,Transportation,https://digitransit.fi/en/developers/ ,Finnish transport API
+1293,Transport for Germany,apiKey,Transportation,http://data.deutschebahn.com/dataset/api-fahrplan,Deutsche Bahn (DB) API
+1294,"Transport for Grenoble, France",,Transportation,https://www.mobilites-m.fr/pages/opendata/OpenDataApi.html,Grenoble public transport
+1295,"Transport for Hessen, Germany",,Transportation,https://opendata.rmv.de/site/start.html,RMV API (Public Transport in Hessen)
+1296,"Transport for Honolulu, US",apiKey,Transportation,http://hea.thebus.org/api_info.asp,Honolulu Transportation Information
+1297,"Transport for Lisbon, Portugal",apiKey,Transportation,https://emel.city-platform.com/opendata/,"Data about buses routes, parking and traffic"
+1298,"Transport for London, England",apiKey,Transportation,https://api.tfl.gov.uk,TfL API
+1299,"Transport for Los Angeles, US",,Transportation,https://developer.metro.net/api/,Data about positions of Metro vehicles in real time and travel their routes
+1300,"Transport for Manchester, England",apiKey,Transportation,https://developer.tfgm.com/,TfGM transport network data
+1301,Transport for Norway,,Transportation,https://developer.entur.org/,Transport APIs and dataset for Norway
+1302,"Transport for Ottawa, Canada",apiKey,Transportation,https://www.octranspo.com/en/plan-your-trip/travel-tools/developers,OC Transpo API
+1303,"Transport for Paris, France",,Transportation,http://data.ratp.fr/api/v1/console/datasets/1.0/search/,RATP Open Data API
+1304,"Transport for Philadelphia, US",,Transportation,http://www3.septa.org/hackathon/,SEPTA APIs
+1305,"Transport for Sao Paulo, Brazil",OAuth,Transportation,http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/,SPTrans
+1306,Transport for Spain,,Transportation,https://data.renfe.com/api/1/util/snippet/api_info.html?resource_id=a2368cff-1562-4dde-8466-9635ea3a572a,Public trains of Spain
+1307,Transport for Sweden,OAuth,Transportation,https://www.trafiklab.se/api,Public Transport consumer
+1308,Transport for Switzerland,apiKey,Transportation,https://opentransportdata.swiss/en/,Official Swiss Public Transport Open Data
+1309,Transport for Switzerland,,Transportation,https://transport.opendata.ch/,Swiss public transport API
+1310,Transport for The Netherlands,apiKey,Transportation,http://www.ns.nl/reisinformatie/ns-api,"NS, only trains"
+1311,Transport for The Netherlands,,Transportation,https://github.com/skywave/KV78Turbo-OVAPI/wiki,"OVAPI, country-wide public transport"
+1312,"Transport for Toronto, Canada",,Transportation,https://myttc.ca/developers,TTC
+1313,Transport for UK,apiKey,Transportation,https://developer.transportapi.com,Transport API and dataset for UK
+1314,Transport for United States,,Transportation,https://retro.umoiq.com/xmlFeedDocs/NextBusXMLFeed.pdf,NextBus API
+1315,"Transport for Vancouver, Canada",OAuth,Transportation,https://developer.translink.ca/,TransLink
+1316,"Transport for Washington, US",OAuth,Transportation,https://developer.wmata.com/,Washington Metro transport API
+1317,transport.rest,,Transportation,https://transport.rest,"Community maintained, developer-friendly public transport API"
+1318,Tripadvisor,apiKey,Transportation,https://developer-tripadvisor.com/home/,"Rating content for a hotel, restaurant, attraction or destination"
+1319,Uber,OAuth,Transportation,https://developer.uber.com/products,Uber ride requests and price estimation
+1320,"Velib metropolis, Paris, France",,Transportation,https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole,Velib Open Data API
+1321,1pt,,URL Shorteners,https://github.com/1pt-co/api/blob/main/README.md,A simple URL shortener
+1322,Bitly,OAuth,URL Shorteners,http://dev.bitly.com/get_started.html,URL shortener and link management
+1323,CleanURI,,URL Shorteners,https://cleanuri.com/docs,URL shortener service
+1324,ClickMeter,apiKey,URL Shorteners,https://support.clickmeter.com/hc/en-us/categories/201474986,"Monitor, compare and optimize your marketing links"
+1325,Clico,apiKey,URL Shorteners,https://cli.com/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config,URL shortener service
+1326,Cutt.ly,apiKey,URL Shorteners,https://cutt.ly/api-documentation/cuttly-links-api,URL shortener service
+1327,Drivet URL Shortener,,URL Shorteners,https://wiki.drivet.xyz/en/url-shortener/add-links,Shorten a long URL easily and fast
+1328,Free Url Shortener,,URL Shorteners,https://ulvis.net/developer.html,Free URL Shortener offers a powerful API to interact with other sites
+1329,Git.io,,URL Shorteners,https://github.blog/2011-11-10-git-io-github-url-shortener/,Git.io URL shortener
+1330,GoTiny,,URL Shorteners,https://github.com/robvanbakel/gotiny-api,"A lightweight URL shortener, focused on ease-of-use for the developer and end-user"
+1331,Kutt,apiKey,URL Shorteners,https://docs.kutt.it/,Free Modern URL Shortener
+1332,Mgnet.me,,URL Shorteners,http://mgnet.me/api.html,Torrent URL shorten API
+1333,owo,,URL Shorteners,https://owo.vc/api,A simple link obfuscator/shortener
+1334,Rebrandly,apiKey,URL Shorteners,https://developers.rebrandly.com/v1/docs,Custom URL shortener for sharing branded links
+1335,Short Link,,URL Shorteners,https://github.com/FayasNoushad/Short-Link-API,Short URLs support so many domains
+1336,Shrtcode,,URL Shorteners,https://shrtco.de/docs,URl Shortener with multiple Domains
+1337,Shrtlnk,apiKey,URL Shorteners,https://shrtlnk.dev/developer,Simple and efficient short link creation
+1338,TinyURL,apiKey,URL Shorteners,https://tinyurl.com/app/dev,Shorten long URLs
+1339,UrlBae,apiKey,URL Shorteners,https://urlbae.com/developers,Simple and efficient short link creation
+1340,Brazilian Vehicles and Prices,,Vehicle,https://deividfortuna.github.io/fipe/,Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe
+1341,Helipaddy sites,apiKey,Vehicle,https://helipaddy.com/api/,"Helicopter and passenger drone landing site directory, Helipaddy data and much more"
+1342,Kelley Blue Book,apiKey,Vehicle,http://developer.kbb.com/#!/data/1-Default,"Vehicle info, pricing, configuration, plus much more"
+1343,Mercedes-Benz,apiKey,Vehicle,https://developer.mercedes-benz.com/apis,"Telematics data, remotely access vehicle functions, car configurator, locate service dealers"
+1344,NHTSA,,Vehicle,https://vpic.nhtsa.dot.gov/api/,NHTSA Product Information Catalog and Vehicle Listing
+1345,Smartcar,OAuth,Vehicle,https://smartcar.com/docs/,Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars
+1346,An API of Ice And Fire,,Video,https://anapioficeandfire.com/,Game Of Thrones API
+1347,Bob's Burgers,,Video,https://bobs-burgers-api-ui.herokuapp.com,Bob's Burgers API
+1348,Breaking Bad,,Video,https://breakingbadapi.com/documentation,Breaking Bad API
+1349,Breaking Bad Quotes,,Video,https://github.com/shevabam/breaking-bad-quotes,Some Breaking Bad quotes
+1350,Catalogopolis,,Video,https://api.catalogopolis.xyz/docs/,Doctor Who API
+1351,Catch The Show,,Video,https://catchtheshow.herokuapp.com/api/documentation,REST API for next-episode.net
+1352,Czech Television,,Video,http://www.ceskatelevize.cz/xml/tv-program/,TV programme of Czech TV
+1353,Dailymotion,OAuth,Video,https://developer.dailymotion.com/,Dailymotion Developer API
+1354,Dune,,Video,https://github.com/ywalia01/dune-api,"A simple API which provides you with book, character, movie and quotes JSON data"
+1355,Final Space,,Video,https://finalspaceapi.com/docs/,Final Space API
+1356,Game of Thrones Quotes,,Video,https://gameofthronesquotes.xyz/,Some Game of Thrones quotes
+1357,Harry Potter Charactes,,Video,https://hp-api.herokuapp.com/,Harry Potter Characters Data with with imagery
+1358,IMDb-API,apiKey,Video,https://imdb-api.com/,"API for receiving movie, serial and cast information"
+1359,IMDbOT,,Video,https://github.com/SpEcHiDe/IMDbOT,Unofficial IMDb Movie / Series Information
+1360,JSON2Video,apiKey,Video,https://json2video.com,"Create and edit videos programmatically: watermarks,resizing,slideshows,voice-over,text animations"
+1361,Lucifer Quotes,,Video,https://github.com/shadowoff09/lucifer-quotes,Returns Lucifer quotes
+1362,MCU Countdown,,Video,https://github.com/DiljotSG/MCU-Countdown,A Countdown to the next MCU Film
+1363,Motivational Quotes,,Video,https://nodejs-quoteapp.herokuapp.com/,Random Motivational Quotes
+1364,Movie Quote,,Video,https://github.com/F4R4N/movie-quote/,Random Movie and Series Quotes
+1365,Open Movie Database,apiKey,Video,http://www.omdbapi.com/,Movie information
+1366,Owen Wilson Wow,,Video,https://owen-wilson-wow-api.herokuapp.com,"API for actor Owen Wilson's ""wow"" exclamations in movies"
+1367,Ron Swanson Quotes,,Video,https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api,Television
+1368,Simkl,apiKey,Video,https://simkl.docs.apiary.io,"Movie, TV and Anime data"
+1369,STAPI,,Video,http://stapi.co,Information on all things Star Trek
+1370,Stranger Things Quotes,,Video,https://github.com/shadowoff09/strangerthings-quotes,Returns Stranger Things quotes
+1371,Stream,,Video,https://api.stream.cz/graphiql,"Czech internet television, films, series and online videos for free"
+1372,Stromberg Quotes,,Video,https://www.stromberg-api.de/,Returns Stromberg quotes and more
+1373,SWAPI,,Video,https://swapi.dev/,All the Star Wars data you've ever wanted
+1374,SWAPI,,Video,https://www.swapi.tech,All things Star Wars
+1375,SWAPI GraphQL,,Video,https://graphql.org/swapi-graphql,Star Wars GraphQL API
+1376,The Lord of the Rings,apiKey,Video,https://the-one-api.dev/,The Lord of the Rings API
+1377,The Vampire Diaries,apiKey,Video,https://vampire-diaries-api.netlify.app/,TV Show Data
+1378,ThronesApi,,Video,https://thronesapi.com/,Game Of Thrones Characters Data with imagery
+1379,TMDb,apiKey,Video,https://www.themoviedb.org/documentation/api,Community-based movie data
+1380,TrailerAddict,apiKey,Video,https://www.traileraddict.com/trailerapi,Easily embed trailers from TrailerAddict
+1381,Trakt,apiKey,Video,https://trakt.docs.apiary.io/,Movie and TV Data
+1382,TVDB,apiKey,Video,https://thetvdb.com/api-information,Television data
+1383,TVMaze,,Video,http://www.tvmaze.com/api,TV Show Data
+1384,uNoGS,apiKey,Video,https://rapidapi.com/unogs/api/unogsng,"Unofficial Netflix Online Global Search, Search all netflix regions in one place"
+1385,Vimeo,OAuth,Video,https://developer.vimeo.com/,Vimeo Developer API
+1386,Watchmode,apiKey,Video,https://api.watchmode.com/,API for finding out the streaming availability of movies & shows
+1387,Web Series Quotes Generator,,Video,https://github.com/yogeshwaran01/web-series-quotes,API generates various Web Series Quote Images
+1388,YouTube,OAuth,Video,https://developers.google.com/youtube/,Add YouTube functionality to your sites and apps
+1389,7Timer!,,Weather,http://www.7timer.info/doc.php?lang=en,"Weather, especially for Astroweather"
+1390,AccuWeather,apiKey,Weather,https://developer.accuweather.com/apis,Weather and forecast data
+1391,Aemet,apiKey,Weather,https://opendata.aemet.es/centrodedescargas/inicio,Weather and forecast data from Spain
+1392,apilayer weatherstack,apiKey,Weather,https://weatherstack.com/,Real-Time & Historical World Weather Data API
+1393,APIXU,apiKey,Weather,https://www.apixu.com/doc/request.aspx,Weather
+1394,AQICN,apiKey,Weather,https://aqicn.org/api/,Air Quality Index Data for over 1000 cities
+1395,AviationWeather,,Weather,https://www.aviationweather.gov/dataserver,NOAA aviation weather forecasts and observations
+1396,ColorfulClouds,apiKey,Weather,https://open.caiyunapp.com/ColorfulClouds_Weather_API,Weather
+1397,Euskalmet,apiKey,Weather,https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/,Meteorological data of the Basque Country
+1398,Foreca,OAuth,Weather,https://developer.foreca.com,Weather
+1399,HG Weather,apiKey,Weather,https://hgbrasil.com/status/weather,Provides weather forecast data for cities in Brazil
+1400,Hong Kong Obervatory,,Weather,https://www.hko.gov.hk/en/abouthko/opendata_intro.htm,"Provide weather information, earthquake information, and climate data"
+1401,MetaWeather,,Weather,https://www.metaweather.com/api/,Weather
+1402,Meteorologisk Institutt,User-Agent,Weather,https://api.met.no/weatherapi/documentation,Weather and climate data
+1403,Micro Weather,apiKey,Weather,https://m3o.com/weather/api,Real time weather forecasts and historic data
+1404,ODWeather,,Weather,http://api.oceandrivers.com/static/docs.html,Weather and weather webcams
+1405,Oikolab,apiKey,Weather,https://docs.oikolab.com,"70+ years of global, hourly historical and forecast weather data from NOAA and ECMWF"
+1406,Open-Meteo,,Weather,https://open-meteo.com/,Global weather forecast API for non-commercial use
+1407,openSenseMap,,Weather,https://api.opensensemap.org/,Data from Personal Weather Stations called senseBoxes
+1408,OpenUV,apiKey,Weather,https://www.openuv.io,Real-time UV Index Forecast
+1409,OpenWeatherMap,apiKey,Weather,https://openweathermap.org/api,Weather
+1410,QWeather,apiKey,Weather,https://dev.qweather.com/en/,Location-based weather data
+1411,RainViewer,,Weather,https://www.rainviewer.com/api.html,Radar data collected from different websites across the Internet
+1412,Storm Glass,apiKey,Weather,https://stormglass.io/,Global marine weather from multiple sources
+1413,Tomorrow,apiKey,Weather,https://docs.tomorrow.io,Weather API Powered by Proprietary Technology
+1414,US Weather,,Weather,https://www.weather.gov/documentation/services-web-api,US National Weather Service
+1415,Visual Crossing,apiKey,Weather,https://www.visualcrossing.com/weather-api,Global historical and weather forecast data
+1416,weather-api,,Weather,https://github.com/robertoduessmann/weather-api,A RESTful free API to check the weather
+1417,WeatherAPI,apiKey,Weather,https://www.weatherapi.com/,Weather API with other stuff like Astronomy and Geolocation API
+1418,Weatherbit,apiKey,Weather,https://www.weatherbit.io/api,Weather
+1419,Yandex.Weather,apiKey,Weather,https://yandex.com/dev/weather/,Assesses weather condition in specific locations
